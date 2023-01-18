@@ -1,0 +1,660 @@
+[
+  {
+    "dialog": [
+      {
+        "text": "if you have the newest nvidia drivers ( the 9629 ones or newer )"
+      },
+      {
+        "text": "but what if i have the supported drivers installed ?"
+      },
+      {
+        "text": "i dont ' have the beta 's"
+      },
+      {
+        "text": "how do i check my version ?"
+      },
+      {
+        "text": "basically the ubuntu ones are still 8xxx"
+      },
+      {
+        "text": "but how do i check my verison ?"
+      },
+      {
+        "text": "how did you install them before ?"
+      },
+      {
+        "text": "do n't remember , i think from terminal"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "QAP"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "QAP"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "sevas apt is installing the linux-headers-amd64-k8 is that the correct kernel i need ?"
+      },
+      {
+        "text": "if you 're on a 64-bit , yes"
+      },
+      {
+        "text": "if you 're trying to get the linux headers , that is ."
+      },
+      {
+        "text": "that 's the `` official '' way to get to do things ?"
+      },
+      {
+        "text": "i mean , the last thing i wan na do is break my ubuntu . EMOJI"
+      },
+      {
+        "text": "the official way is to check the wiki and the documentation , yes ."
+      },
+      {
+        "text": "we 're not anti-anything . we are anti-instructions which breaks ubuntu boxen"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "is that a set of libraries"
+      },
+      {
+        "text": "you need to open it outside of the webpage"
+      },
+      {
+        "text": "totem is a front-end to gstreamer , which is also installed by default ."
+      },
+      {
+        "text": "go to youtube firefox should get a popup saying additional plugins are needed , synaptic will handle the install"
+      },
+      {
+        "text": "okay , flash probably is n't your problem then ."
+      },
+      {
+        "text": "however , the video you 're trying to watch on silverscreen is n't a flash video ."
+      },
+      {
+        "text": "it doesnt work when its embedded EMOJI"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Elaboration"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Elaboration"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 5,
+        "x": 0,
+        "type": "Correction"
+      },
+      {
+        "y": 6,
+        "x": 0,
+        "type": "Result"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "wpa_action wpa_cli wpa_passphrase wpa_supplicant"
+      },
+      {
+        "text": "hmm , do you use network manager ?"
+      },
+      {
+        "text": "i 'm pretty sure my router is setup for wep though"
+      },
+      {
+        "text": "right click on the icon and see if wireless is enabled there"
+      },
+      {
+        "text": "are there any networks available if you leftclick on it ?"
+      },
+      {
+        "text": "just the one i added manually with no signal"
+      },
+      {
+        "text": "are you sure it 's enabled in your router ?"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Result"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "well i want to know why i ca n't go into display and fix the resolution size"
+      },
+      {
+        "text": "are you at the desktop ? or stuck in a cli"
+      },
+      {
+        "text": "are you at the desktop ? or stuck in a cli"
+      },
+      {
+        "text": "if you are at a desktop what is your resolution set at ?"
+      },
+      {
+        "text": "you _need_ to read the wiki ."
+      },
+      {
+        "text": "what is the monitor that you have ?"
+      },
+      {
+        "text": "you should then do what it says"
+      },
+      {
+        "text": "you still need to edit xorg.conf it does n't work correctly"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 0,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "sevas apt is installing the linux-headers-amd64-k8 is that the correct kernel i need ?"
+      },
+      {
+        "text": "if you 're trying to get the linux headers , that is ."
+      },
+      {
+        "text": "that 's the `` official '' way to get to do things ?"
+      },
+      {
+        "text": "i mean , the last thing i wan na do is break my ubuntu . EMOJI"
+      },
+      {
+        "text": "the official way is to check the wiki and the documentation , yes ."
+      },
+      {
+        "text": "we 're not anti-anything . we are anti-instructions which breaks ubuntu boxen"
+      },
+      {
+        "text": "seriously , the amount of problems we 've had with it in here"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "QAP"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 3,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "could it be because i am using the wrong nvidia driver ?"
+      },
+      {
+        "text": "look in the details of the theme , change the controls"
+      },
+      {
+        "text": "i will look , but man ffmpeg says it wolnt work"
+      },
+      {
+        "text": "the error is obviously performed when the file is first being made by the screencaster"
+      },
+      {
+        "text": "generally that 's a configurable parameter that can be changed in the window manager configuration ."
+      },
+      {
+        "text": "it certainly has nothing to do with the nvidia driver"
+      },
+      {
+        "text": "i have used convert it to do the job you want , trust me"
+      },
+      {
+        "text": "i was right . the new file is unplayable"
+      },
+      {
+        "text": "i am getting bash : convertit.gambas : command not found"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Contrast"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Elaboration"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 5,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Result"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Result"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "is it normal that ram usage when running nothing is 350mb on a 1gb system ?"
+      },
+      {
+        "text": "go into your processes and see what is eating it up"
+      },
+      {
+        "text": "nothing over 25mb , nautilus using 25mb , gaim using 21mb , mixer applet using 20,7mb"
+      },
+      {
+        "text": "cpu usage is starnge too , spikes everywhere and not low all the time as it should be"
+      },
+      {
+        "text": "what is eating your cpu ?"
+      },
+      {
+        "text": "the only thing that increases cou time is gnome-system-monitor"
+      },
+      {
+        "text": "donno man i do know the system monitor does eat a bit more resources than it should"
+      },
+      {
+        "text": "seems whatching the resources list causes the spikes , but i wonder why i 'm not lower than 20"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "because i have a server `` p"
+      },
+      {
+        "text": "you can run server apps on the desktop install"
+      },
+      {
+        "text": "i got ntfs partitions on FILEPATH and FILEPATH how to see which is xp and which vista ?"
+      },
+      {
+        "text": "you could mount them and look at the filesystem contents"
+      },
+      {
+        "text": "ok so it 's ( hd5 , ? ) but how to find ? just try values ?"
+      },
+      {
+        "text": "the partition is the 2nd number , the first is the hard drive number"
+      },
+      {
+        "text": "i installed mad wifi in ubuntu server now what ?"
+      },
+      {
+        "text": "ok then run : sudo iwlist scan"
+      },
+      {
+        "text": "wlan0 interface dosent spport scanning : network is down"
+      },
+      {
+        "text": "does wlan0 now have a module associated with it in lshw -c network"
+      },
+      {
+        "text": "i wouldnt know what to look for , it does say disabled"
+      },
+      {
+        "text": "this may help some , blacklisting other drivers may help URL"
+      },
+      {
+        "text": "still cant get it to work EMOJI"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "QAP"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "QAP"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Continuation"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "QAP"
+      },
+      {
+        "y": 11,
+        "x": 10,
+        "type": "Continuation"
+      },
+      {
+        "y": 12,
+        "x": 11,
+        "type": "Result"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "hmm ok frots , try updating your drivers ?"
+      },
+      {
+        "text": "i tried with the latest and with beta"
+      },
+      {
+        "text": "you could always just reinstall your operating system ."
+      },
+      {
+        "text": "lol that wouldnt sovle anything"
+      },
+      {
+        "text": "not really but could be a start EMOJI"
+      },
+      {
+        "text": "gdm also got a log folder , FILEPATH .. check if the one you are using have one too"
+      },
+      {
+        "text": "the messages log doesnt have anything special"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "QAP"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  }
+]

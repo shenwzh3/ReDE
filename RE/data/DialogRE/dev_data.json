@@ -1,0 +1,1419 @@
+[
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Hey!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Hey."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Hey, man. What's up?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Maybe you can tell me. My agent would like to know why I didn't show up at the audition I didn't know I had today. The first good thing she gets me in weeks. How could you not give me the message?!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Well, I'll tell ya I do enjoy guilt, but, ah, it wasn't me."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Yes, it was! It was him! Uh huh! Okay, it was me!"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: How is it you?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Well, it was just, it was all so crazy, you know. I mean, Chandler was in the closet, counting to 10, and he was up to 7 and I hadn't found a place to hide yet. I-I-I meant to tell you, and I wrote it all down on my hand. See, all of it."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Yep, that's my audition."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: See, now this is why I keep notepads everywhere."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Yep, and that's why we don't invite you to play."
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "Speaker 5: What is the great tragedy here? You go get yourself another appointment."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Well, Estelle tried, you know. The casting director told her that I missed my chance."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: That is unfair. I'll call her and tell her it was totally my fault."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Pheebs, you can't do that. The casting director doesn't talk to friends, she only talks to agents."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: What a sad little life she must lead. Okay, ooh."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: What, what are you doing? What are you doing?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: No, no, no, I know, I know, ooh. 'Hi, this is Katelynn, from Phoebe Buffay's office. Um, is um, Ann there for Phoebe, she'll know what it's about.'"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Hang up, hang up."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: 'Annie! Hi. Listen we got a problem with Joey Tribbiani, apparently he missed his audition. Who did you speak to in my office? Estelle, no, I don't know what I'm going to do with her. No. All right, so your husband leaves and burns down the apartment, the world does not stop.'"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Is anybody else scared?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: 'Right, well look, um, if Joey loses this audition, that is it for Estelle. I don't care! Annie you are a doll, what time can you see him?' I need a pen."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Get the woman a pad! Get the woman a pad! A pad! A pad!"
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Oh, now you want a pad."
+      }
+    ],
+    "relations": [
+      {
+        "x": "Estelle",
+        "y": "Speaker 1",
+        "rid": [
+          7
+        ],
+        "r": [
+          "per:client"
+        ],
+        "t": [
+          "agent"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Estelle",
+        "y": "agent",
+        "rid": [
+          29
+        ],
+        "r": [
+          "per:title"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Annie",
+        "y": "casting director",
+        "rid": [
+          29
+        ],
+        "r": [
+          "per:title"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Speaker 2",
+        "rid": [
+          9
+        ],
+        "r": [
+          "per:friends"
+        ],
+        "t": [
+          "friends"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Joey Tribbiani",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "man",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Pheebs",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Katelynn",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Phoebe Buffay",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Speaker 1",
+        "rid": [
+          9
+        ],
+        "r": [
+          "per:friends"
+        ],
+        "t": [
+          "friends"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Ann",
+        "y": "casting director",
+        "rid": [
+          29
+        ],
+        "r": [
+          "per:title"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Ann",
+        "y": "Annie",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "man",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1, Speaker 2",
+        "text": "Speaker 1, Speaker 2: Hi"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Hi! Hey mom."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: This is such a great party! 35 years. Very impressive, do you guys have any pearls of wisdom?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Jack?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Why would you serve food on such a sharp stick?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: That\u2019s a good question, dad. That\u2019s a good question\u2026"
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Hmmm\u2026"
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 3",
+        "y": "Speaker 2",
+        "rid": [
+          15
+        ],
+        "r": [
+          "per:parents"
+        ],
+        "t": [
+          "mom"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Speaker 1",
+        "rid": [
+          15
+        ],
+        "r": [
+          "per:parents"
+        ],
+        "t": [
+          "dad"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Speaker 2",
+        "rid": [
+          17
+        ],
+        "r": [
+          "per:spouse"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Speaker 3",
+        "rid": [
+          13
+        ],
+        "r": [
+          "per:children"
+        ],
+        "t": [
+          "dad"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Jack",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Speaker 3",
+        "rid": [
+          13
+        ],
+        "r": [
+          "per:children"
+        ],
+        "t": [
+          "mom"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Speaker 1",
+        "rid": [
+          17
+        ],
+        "r": [
+          "per:spouse"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1, Speaker 2",
+        "text": "Speaker 1, Speaker 2: Hi!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Hey!"
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: So glad you came!"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: I can't believe Emma is already one!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: I remember your first birthday! Ross was jealous of all the attention we were giving you. He pulled on his testicles so hard! We had to take him to the emergency room!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: There's something you didn't know about your dad!"
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "Speaker 5: Hey Mr. and Mrs. Geller! Let me help you with that."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Thank you!"
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "Speaker 5: Oh man, this is great, uh? The three of us together again! You know what would be fun? If we gave this present to Emma from all of us!"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Which one are you?"
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 1",
+        "y": "man",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Emma",
+        "y": "one",
+        "rid": [
+          25
+        ],
+        "r": [
+          "per:age"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "VALUE"
+      },
+      {
+        "x": "Emma",
+        "y": "Speaker 3",
+        "rid": [
+          13
+        ],
+        "r": [
+          "per:children"
+        ],
+        "t": [
+          "dad"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 4",
+        "y": "one",
+        "rid": [
+          25
+        ],
+        "r": [
+          "per:age"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "VALUE"
+      },
+      {
+        "x": "Speaker 4",
+        "y": "man",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Emma",
+        "rid": [
+          15
+        ],
+        "r": [
+          "per:parents"
+        ],
+        "t": [
+          "dad"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "man",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Mrs. Geller",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Geller",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 5",
+        "y": "man",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 5",
+        "y": "dad",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Mrs. Geller",
+        "y": "Speaker 3",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Mrs. Geller",
+        "y": "Speaker 4",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Mrs. Geller",
+        "y": "Speaker 2",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Wow! It looks like we got a lot of good stuff."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Oh we did, but my mom got us the greatest gift of all."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: A Play-Dough Barber Shop?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: No. She\u2019s going to live with us for eight weeks."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Uh, what?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Yes! She\u2019s gonna help us take care of the baby! Woo-hoo."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: What\u2014You\u2019re not serious. I mean she\u2019s a very nice woman, but there is no way we can take eight weeks of her. She\u2019ll drive us totally crazy."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Hi Ross!"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Hi roomie!"
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 3",
+        "y": "roomie",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Speaker 2",
+        "rid": [
+          13
+        ],
+        "r": [
+          "per:children"
+        ],
+        "t": [
+          "mom"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Speaker 3",
+        "rid": [
+          15
+        ],
+        "r": [
+          "per:parents"
+        ],
+        "t": [
+          "mom"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "roomie",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "baby",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "baby",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Now, Mom, everything's going fine, really. Yeah, Ross is great. He's uh, he's in a whole other place. No, he's gone. No no, you don't have to fly back, really. What do you mean this might be your only chance? Would you stop? I'm only 26, I'm not even thinking about babies yet."
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 1",
+        "y": "Ross",
+        "rid": [
+          16
+        ],
+        "r": [
+          "per:siblings"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "26",
+        "rid": [
+          25
+        ],
+        "r": [
+          "per:age"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "VALUE"
+      },
+      {
+        "x": "Ross",
+        "y": "Speaker 1",
+        "rid": [
+          16
+        ],
+        "r": [
+          "per:siblings"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Oh! Hey, Rach!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Hi! Hey, Happy Valentine\u2019s Day!"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Oh, you, too."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Hey, so, uh, how\u2019s it going living over at Ross\u2019?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: It\u2019s good. Except he makes us watch the Discovery Channel all day long. Did you know that something really boring happened to someone really ugly in the Middle Ages? Oh, thank you. I\u2019ll see you guys later."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Okay."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Bye."
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 2",
+        "y": "Rach",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Ross",
+        "rid": [
+          12
+        ],
+        "r": [
+          "per:roommate"
+        ],
+        "t": [
+          "living over"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Ross",
+        "y": "Speaker 2",
+        "rid": [
+          12
+        ],
+        "r": [
+          "per:roommate"
+        ],
+        "t": [
+          "living over"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Hello, Chandler Bing."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Hello Mr. Bing...I love you."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Alright, whoever this is, stop calling me! It\u2019s been six months! It\u2019s not funny!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: But, I love you."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Leave me alone! For the love of God, leave me alone!!!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: And that\u2019s Wednesday. Ohh."
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 1",
+        "y": "Chandler Bing",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Mr. Bing",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Chandler Bing",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Mr. Bing",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Mr. Bing",
+        "y": "Speaker 1",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Good job Joe! Well done! Top notch!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: You liked it? You really liked it?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Oh-ho-ho, yeah!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Which part exactly?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: The whole thing! Can we go?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Oh no-no-no, give me some specifics."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: I love the specifics, the specifics were the best part!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Hey, what about the scene with the kangaroo? Did-did you like that part?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: I was surprised to see a kangaroo in a World War I epic."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: You fell asleep!! There was no kangaroo! They didn\u2019t take any of my suggestions! Thanks for coming buddy. I\u2019ll see you later."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Don\u2019t go! I\u2019m sorry. I\u2019m so sorry! Look! This guy fell asleep! He fell asleep too! Be mad at him! Or, call an ambulance."
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 2",
+        "y": "Joe",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Speaker 1",
+        "rid": [
+          2
+        ],
+        "r": [
+          "per:negative_impression"
+        ],
+        "t": [
+          "mad at"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "buddy",
+        "rid": [
+          37
+        ],
+        "r": [
+          "unanswerable"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "buddy",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Here Mitzi! Here Mitzi!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Mitzi is....."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: My hamster. I hope she's okay, I haven't seen her in a while. Have a seat."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Uh... Oh hey, do you, uh ...do you have any, um, Cinnamon Fruit Toasties?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: What?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Well, I do! Why don't we go back to my place, light a couple of candles, break open a box of Cinnamon Fruit Toasties, uh..."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: I'd rather not."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Oh, yeah, why not?"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Okay, um, don't take this the wrong way, but your place kinda has a weird smell."
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 1",
+        "y": "Mitzi",
+        "rid": [
+          31
+        ],
+        "r": [
+          "per:pet"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: So, um... I'm proposing to Phoebe tonight."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Tonight?! Isn't an engagement ring supposed to have a diamond? Oh, there it is!"
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "Speaker 1: Yeah, well, being a failed scientist doesn't pay quite as well as you might think. That's um... one seventieth of a karat. And the clarity is um... is quite poor."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Nice!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: Monica, can I talk to you for a sec?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Ok!"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: David is going to propose to Phoebe tonight!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: See what happens when you give people advice? I hope you told him not to?"
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Speaker 2: That would be advice!!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Ok fine. I'll handle this. Phoebe?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Yeah?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: I need to talk to you."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Are you leaving \"The Supremes\"?"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Ok, my husband just gave your boyfriend some very bad advice. Look, David is going to propose to you tonight."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Wow? Really? That's fantastic!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: What are you serious? You wanna marry him? Wha... What about Mike?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Oh, ok, you want me to marry Mike? Alright, well, let's just gag him and handcuff him and force him down the aisle. I can just see it: \"Mike, do you take Phoebe...\" You know, it's every girl's dream!"
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Speaker 3: Do you really think marrying someone else is the right answer?"
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "Speaker 4: Sure! Look, ok, bottom line: I love Mike... David! David. I love David. Don't look at me that way, Roseanne Rosannadanna!"
+      }
+    ],
+    "relations": [
+      {
+        "x": "Speaker 1",
+        "y": "scientist",
+        "rid": [
+          29
+        ],
+        "r": [
+          "per:title"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "STRING"
+      },
+      {
+        "x": "Speaker 1",
+        "y": "Speaker 4",
+        "rid": [
+          10
+        ],
+        "r": [
+          "per:girl/boyfriend"
+        ],
+        "t": [
+          "boyfriend"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Speaker 2",
+        "rid": [
+          17
+        ],
+        "r": [
+          "per:spouse"
+        ],
+        "t": [
+          "husband"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 3",
+        "y": "Roseanne Rosannadanna",
+        "rid": [
+          30
+        ],
+        "r": [
+          "per:alternate_names"
+        ],
+        "t": [
+          ""
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 4",
+        "y": "Speaker 1",
+        "rid": [
+          10
+        ],
+        "r": [
+          "per:girl/boyfriend"
+        ],
+        "t": [
+          "boyfriend"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 4",
+        "y": "Mike",
+        "rid": [
+          1
+        ],
+        "r": [
+          "per:positive_impression"
+        ],
+        "t": [
+          "love"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      },
+      {
+        "x": "Speaker 2",
+        "y": "Speaker 3",
+        "rid": [
+          17
+        ],
+        "r": [
+          "per:spouse"
+        ],
+        "t": [
+          "husband"
+        ],
+        "x_type": "PER",
+        "y_type": "PER"
+      }
+    ]
+  }
+]

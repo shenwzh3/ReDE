@@ -1,0 +1,1107 @@
+{
+  "data": {
+    "dialogues": [
+      {
+        "edus": [
+          {
+            "text": "if you have the newest nvidia drivers ( the 9629 ones or newer )",
+            "speaker": "dv_"
+          },
+          {
+            "text": "but what if i have the supported drivers installed ?",
+            "speaker": "yoshig3"
+          },
+          {
+            "text": "i dont ' have the beta 's",
+            "speaker": "yoshig3"
+          },
+          {
+            "text": "how do i check my version ?",
+            "speaker": "yoshig3"
+          },
+          {
+            "text": "basically the ubuntu ones are still 8xxx",
+            "speaker": "dv_"
+          },
+          {
+            "text": "but how do i check my verison ?",
+            "speaker": "yoshig3"
+          },
+          {
+            "text": "how did you install them before ?",
+            "speaker": "dv_"
+          },
+          {
+            "text": "do n't remember , i think from terminal",
+            "speaker": "yoshig3"
+          }
+        ],
+        "context": "dv_: if you have the newest nvidia drivers ( the 9629 ones or newer ) yoshig3: but what if i have the supported drivers installed ? yoshig3: i dont ' have the beta 's yoshig3: how do i check my version ? dv_: basically the ubuntu ones are still 8xxx yoshig3: but how do i check my verison ? dv_: how did you install them before ? yoshig3: do n't remember , i think from terminal",
+        "qas": [
+          {
+            "question": "What are the ubuntu ones basically\uff1f",
+            "id": "ff6f9c3db44b3804362d1c01c6e5fa0d",
+            "answers": [
+              {
+                "text": "8xxx",
+                "answer_start": 245
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Where did yoshig3 install ubuntu ?",
+            "id": "767bbd5abd7cd70a88aa65856b4ac172",
+            "answers": [
+              {
+                "text": "terminal",
+                "answer_start": 370
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did yoshig3 want to know ?",
+            "id": "bf656915b37e390b5a480305e444804f",
+            "answers": [
+              {
+                "text": "check my version",
+                "answer_start": 185
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 3,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "QAP"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "sevas apt is installing the linux-headers-amd64-k8 is that the correct kernel i need ?",
+            "speaker": "benkong2"
+          },
+          {
+            "text": "if you 're on a 64-bit , yes",
+            "speaker": "apokryphos"
+          },
+          {
+            "text": "if you 're trying to get the linux headers , that is .",
+            "speaker": "apokryphos"
+          },
+          {
+            "text": "that 's the `` official '' way to get to do things ?",
+            "speaker": "occy"
+          },
+          {
+            "text": "i mean , the last thing i wan na do is break my ubuntu . EMOJI",
+            "speaker": "occy"
+          },
+          {
+            "text": "the official way is to check the wiki and the documentation , yes .",
+            "speaker": "apokryphos"
+          },
+          {
+            "text": "we 're not anti-anything . we are anti-instructions which breaks ubuntu boxen",
+            "speaker": "nalioth"
+          }
+        ],
+        "context": "benkong2: sevas apt is installing the linux-headers-amd64-k8 is that the correct kernel i need ? apokryphos: if you 're on a 64-bit , yes apokryphos: if you 're trying to get the linux headers , that is . occy: that 's the `` official '' way to get to do things ? occy: i mean , the last thing i wan na do is break my ubuntu . emoji apokryphos: the official way is to check the wiki and the documentation , yes . nalioth: we 're not anti-anything . we are anti-instructions which breaks ubuntu boxen",
+        "qas": [
+          {
+            "question": "What is the last thing occy wanna do ?",
+            "id": "57329f9d331462316f024adf9996c8f9",
+            "answers": [
+              {
+                "text": "break my ubuntu",
+                "answer_start": 309
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is the official way ?",
+            "id": "69ca293b5e1e284e4245ffb2f447bc0c",
+            "answers": [
+              {
+                "text": "to check the wiki and the documentation",
+                "answer_start": 365
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what breaks ubuntu boxen ?",
+            "id": "3d3a656229c25abe12c74c1453c5ec85",
+            "plausible_answers": [
+              {
+                "text": "linux headers",
+                "answer_start": 179
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 4,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "is that a set of libraries",
+            "speaker": "nomic"
+          },
+          {
+            "text": "you need to open it outside of the webpage",
+            "speaker": "danbhfive"
+          },
+          {
+            "text": "totem is a front-end to gstreamer , which is also installed by default .",
+            "speaker": "PirateHead"
+          },
+          {
+            "text": "go to youtube firefox should get a popup saying additional plugins are needed , synaptic will handle the install",
+            "speaker": "silent"
+          },
+          {
+            "text": "okay , flash probably is n't your problem then .",
+            "speaker": "PirateHead"
+          },
+          {
+            "text": "however , the video you 're trying to watch on silverscreen is n't a flash video .",
+            "speaker": "PirateHead"
+          },
+          {
+            "text": "it doesnt work when its embedded EMOJI",
+            "speaker": "danbhfive"
+          }
+        ],
+        "context": "nomic: is that a set of libraries danbhfive: you need to open it outside of the webpage piratehead: totem is a front-end to gstreamer , which is also installed by default . silent: go to youtube firefox should get a popup saying additional plugins are needed , synaptic will handle the install piratehead: okay , flash probably is n't your problem then . piratehead: however , the video you 're trying to watch on silverscreen is n't a flash video . danbhfive: it doesnt work when its embedded emoji",
+        "qas": [
+          {
+            "question": "Where does it need to open ?",
+            "id": "5648e51f062bb9851bf67906df405d44",
+            "answers": [
+              {
+                "text": "outside of the webpage",
+                "answer_start": 65
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What tips will appear ?",
+            "id": "c9e2005934cfc25723e1ebf468747d14",
+            "answers": [
+              {
+                "text": "additional plugins are needed",
+                "answer_start": 229
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What video you don't need to watch on the silver screen ?",
+            "id": "3e1cdfda9647735bbd4dec70f5826079",
+            "answers": [
+              {
+                "text": "a flash video",
+                "answer_start": 434
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Elaboration"
+          },
+          {
+            "y": 3,
+            "x": 0,
+            "type": "Elaboration"
+          },
+          {
+            "y": 4,
+            "x": 0,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 5,
+            "x": 0,
+            "type": "Correction"
+          },
+          {
+            "y": 6,
+            "x": 0,
+            "type": "Result"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "wpa_action wpa_cli wpa_passphrase wpa_supplicant",
+            "speaker": "Dougie"
+          },
+          {
+            "text": "hmm , do you use network manager ?",
+            "speaker": "DjViper"
+          },
+          {
+            "text": "i 'm pretty sure my router is setup for wep though",
+            "speaker": "Dougie"
+          },
+          {
+            "text": "right click on the icon and see if wireless is enabled there",
+            "speaker": "DjViper"
+          },
+          {
+            "text": "are there any networks available if you leftclick on it ?",
+            "speaker": "DjViper"
+          },
+          {
+            "text": "just the one i added manually with no signal",
+            "speaker": "Dougie"
+          },
+          {
+            "text": "are you sure it 's enabled in your router ?",
+            "speaker": "DjViper"
+          }
+        ],
+        "context": "dougie: wpa_action wpa_cli wpa_passphrase wpa_supplicant djviper: hmm , do you use network manager ? dougie: i 'm pretty sure my router is setup for wep though djviper: right click on the icon and see if wireless is enabled there djviper: are there any networks available if you leftclick on it ? dougie: just the one i added manually with no signal djviper: are you sure it 's enabled in your router ?",
+        "qas": [
+          {
+            "question": "What does Dougie make sure ?",
+            "id": "07dec72c230cb4f259e57e7929c8a546",
+            "answers": [
+              {
+                "text": "router is setup for wep",
+                "answer_start": 129
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does DjViper want Dougie to find ?",
+            "id": "5d20ca3bdc3f0758362a7faba3e31a5d",
+            "answers": [
+              {
+                "text": "if wireless is enabled there",
+                "answer_start": 201
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does DjViper get at last ?",
+            "id": "f082e8860473f970b20cfe684b22d053",
+            "answers": [
+              {
+                "text": "no signal",
+                "answer_start": 340
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 2,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Result"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Clarification_question"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "well i want to know why i ca n't go into display and fix the resolution size",
+            "speaker": "specialbuddy"
+          },
+          {
+            "text": "are you at the desktop ? or stuck in a cli",
+            "speaker": "lowman62"
+          },
+          {
+            "text": "are you at the desktop ? or stuck in a cli",
+            "speaker": "lowman62"
+          },
+          {
+            "text": "if you are at a desktop what is your resolution set at ?",
+            "speaker": "lowman62"
+          },
+          {
+            "text": "you _need_ to read the wiki .",
+            "speaker": "mwe"
+          },
+          {
+            "text": "what is the monitor that you have ?",
+            "speaker": "lowman62"
+          },
+          {
+            "text": "you should then do what it says",
+            "speaker": "mwe"
+          },
+          {
+            "text": "you still need to edit xorg.conf it does n't work correctly",
+            "speaker": "mwe"
+          }
+        ],
+        "context": "specialbuddy: well i want to know why i ca n't go into display and fix the resolution size lowman62: are you at the desktop ? or stuck in a cli lowman62: are you at the desktop ? or stuck in a cli lowman62: if you are at a desktop what is your resolution set at ? mwe: you _need_ to read the wiki . lowman62: what is the monitor that you have ? mwe: you should then do what it says mwe: you still need to edit xorg.conf it does n't work correctly",
+        "qas": [
+          {
+            "question": "What is speciakbuddy's question ?",
+            "id": "c8560fe3e4fd82ca9bf4179d59c3e553",
+            "answers": [
+              {
+                "text": "why i ca n't go into display and fix the resolution size",
+                "answer_start": 34
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is lowman62's first question ?",
+            "id": "62ed6160dcde6a1603e388615bca96ea",
+            "answers": [
+              {
+                "text": "if you are at a desktop what is your resolution set at",
+                "answer_start": 207
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does speciakbuddy need according to mwe ?",
+            "id": "2dd7fd2d837fb58cc00355a4ae81dcb8",
+            "answers": [
+              {
+                "text": "read the wiki",
+                "answer_start": 283
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 3,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 6,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 0,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "sevas apt is installing the linux-headers-amd64-k8 is that the correct kernel i need ?",
+            "speaker": "benkong2"
+          },
+          {
+            "text": "if you 're trying to get the linux headers , that is .",
+            "speaker": "apokryphos"
+          },
+          {
+            "text": "that 's the `` official '' way to get to do things ?",
+            "speaker": "occy"
+          },
+          {
+            "text": "i mean , the last thing i wan na do is break my ubuntu . EMOJI",
+            "speaker": "occy"
+          },
+          {
+            "text": "the official way is to check the wiki and the documentation , yes .",
+            "speaker": "apokryphos"
+          },
+          {
+            "text": "we 're not anti-anything . we are anti-instructions which breaks ubuntu boxen",
+            "speaker": "nalioth"
+          },
+          {
+            "text": "seriously , the amount of problems we 've had with it in here",
+            "speaker": "apokryphos"
+          }
+        ],
+        "context": "benkong2: sevas apt is installing the linux-headers-amd64-k8 is that the correct kernel i need ? apokryphos: if you 're trying to get the linux headers , that is . occy: that 's the `` official '' way to get to do things ? occy: i mean , the last thing i wan na do is break my ubuntu . emoji apokryphos: the official way is to check the wiki and the documentation , yes . nalioth: we 're not anti-anything . we are anti-instructions which breaks ubuntu boxen apokryphos: seriously , the amount of problems we 've had with it in here",
+        "qas": [
+          {
+            "question": "What is the last thing occy wanna do ?",
+            "id": "f9d1f0cb71caa8739a8e29fe7c621432",
+            "answers": [
+              {
+                "text": "break my ubuntu",
+                "answer_start": 268
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is the official way ?",
+            "id": "fe67c296c3d061490bde99bf3d1d90a8",
+            "answers": [
+              {
+                "text": "to check the wiki and the documentation",
+                "answer_start": 324
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what breaks ubuntu boxen ?",
+            "id": "93a890413d6570b7c5b9087e7fc72321",
+            "plausible_answers": [
+              {
+                "text": "linux headers",
+                "answer_start": 138
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 3,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "could it be because i am using the wrong nvidia driver ?",
+            "speaker": "ava"
+          },
+          {
+            "text": "look in the details of the theme , change the controls",
+            "speaker": "Pelo"
+          },
+          {
+            "text": "i will look , but man ffmpeg says it wolnt work",
+            "speaker": "todd_"
+          },
+          {
+            "text": "the error is obviously performed when the file is first being made by the screencaster",
+            "speaker": "meoblast001"
+          },
+          {
+            "text": "generally that 's a configurable parameter that can be changed in the window manager configuration .",
+            "speaker": "sethk"
+          },
+          {
+            "text": "it certainly has nothing to do with the nvidia driver",
+            "speaker": "sethk"
+          },
+          {
+            "text": "i have used convert it to do the job you want , trust me",
+            "speaker": "Pelo"
+          },
+          {
+            "text": "i was right . the new file is unplayable",
+            "speaker": "meoblast001"
+          },
+          {
+            "text": "i am getting bash : convertit.gambas : command not found",
+            "speaker": "todd_"
+          }
+        ],
+        "context": "ava: could it be because i am using the wrong nvidia driver ? pelo: look in the details of the theme , change the controls todd_: i will look , but man ffmpeg says it wolnt work meoblast001: the error is obviously performed when the file is first being made by the screencaster sethk: generally that 's a configurable parameter that can be changed in the window manager configuration . sethk: it certainly has nothing to do with the nvidia driver pelo: i have used convert it to do the job you want , trust me meoblast001: i was right . the new file is unplayable todd_: i am getting bash : convertit.gambas : command not found",
+        "qas": [
+          {
+            "question": "What is the cause of the ava error ?",
+            "id": "741d18688157ae1ad1f88a30587096ff",
+            "answers": [
+              {
+                "text": "because i am using the wrong nvidia driver",
+                "answer_start": 17
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the rebuttal of todd_ ?",
+            "id": "dd3150a9a1af3c0a0c713c2234c1041b",
+            "answers": [
+              {
+                "text": "man ffmpeg says it wolnt work",
+                "answer_start": 148
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How does Pelo get the job done ?",
+            "id": "e8560a62807c5b67759be21d00dbfa2b",
+            "answers": [
+              {
+                "text": "used convert it",
+                "answer_start": 460
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Contrast"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Elaboration"
+          },
+          {
+            "y": 4,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 2,
+            "type": "Continuation"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Result"
+          },
+          {
+            "y": 8,
+            "x": 6,
+            "type": "Result"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "is it normal that ram usage when running nothing is 350mb on a 1gb system ?",
+            "speaker": "Benjamin_L"
+          },
+          {
+            "text": "go into your processes and see what is eating it up",
+            "speaker": "DBO"
+          },
+          {
+            "text": "nothing over 25mb , nautilus using 25mb , gaim using 21mb , mixer applet using 20,7mb",
+            "speaker": "Benjamin_L"
+          },
+          {
+            "text": "cpu usage is starnge too , spikes everywhere and not low all the time as it should be",
+            "speaker": "Benjamin_L"
+          },
+          {
+            "text": "what is eating your cpu ?",
+            "speaker": "DBO"
+          },
+          {
+            "text": "the only thing that increases cou time is gnome-system-monitor",
+            "speaker": "Benjamin_L"
+          },
+          {
+            "text": "donno man i do know the system monitor does eat a bit more resources than it should",
+            "speaker": "DBO"
+          },
+          {
+            "text": "seems whatching the resources list causes the spikes , but i wonder why i 'm not lower than 20",
+            "speaker": "Benjamin_L"
+          }
+        ],
+        "context": "benjamin_l: is it normal that ram usage when running nothing is 350mb on a 1gb system ? dbo: go into your processes and see what is eating it up benjamin_l: nothing over 25mb , nautilus using 25mb , gaim using 21mb , mixer applet using 20,7mb benjamin_l: cpu usage is starnge too , spikes everywhere and not low all the time as it should be dbo: what is eating your cpu ? benjamin_l: the only thing that increases cou time is gnome-system-monitor dbo: donno man i do know the system monitor does eat a bit more resources than it should benjamin_l: seems whatching the resources list causes the spikes , but i wonder why i 'm not lower than 20",
+        "qas": [
+          {
+            "question": "What is the problem of Benjamin_L ?",
+            "id": "ac40e0be3deccfb48c9d1723a15e8281",
+            "answers": [
+              {
+                "text": "ram usage when running nothing is 350mb on a 1gb system",
+                "answer_start": 30
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What eats Benjamin_L's cpu ?",
+            "id": "258abfb9644dda1384f3268588775a41",
+            "answers": [
+              {
+                "text": "gnome-system-monitor",
+                "answer_start": 426
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the cpu usage when running nautilus ?",
+            "id": "45468c5f3a222325aaf3e58b1cd188fc",
+            "answers": [
+              {
+                "text": "25mb",
+                "answer_start": 170
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "because i have a server `` p",
+            "speaker": "Brando753"
+          },
+          {
+            "text": "you can run server apps on the desktop install",
+            "speaker": "ActionParsnip"
+          },
+          {
+            "text": "i got ntfs partitions on FILEPATH and FILEPATH how to see which is xp and which vista ?",
+            "speaker": "dingdong"
+          },
+          {
+            "text": "you could mount them and look at the filesystem contents",
+            "speaker": "ActionParsnip"
+          },
+          {
+            "text": "ok so it 's ( hd5 , ? ) but how to find ? just try values ?",
+            "speaker": "dingdong"
+          },
+          {
+            "text": "the partition is the 2nd number , the first is the hard drive number",
+            "speaker": "ActionParsnip"
+          },
+          {
+            "text": "i installed mad wifi in ubuntu server now what ?",
+            "speaker": "Brando753"
+          },
+          {
+            "text": "ok then run : sudo iwlist scan",
+            "speaker": "ActionParsnip"
+          },
+          {
+            "text": "wlan0 interface dosent spport scanning : network is down",
+            "speaker": "Brando753"
+          },
+          {
+            "text": "does wlan0 now have a module associated with it in lshw -c network",
+            "speaker": "ActionParsnip"
+          },
+          {
+            "text": "i wouldnt know what to look for , it does say disabled",
+            "speaker": "Brando753"
+          },
+          {
+            "text": "this may help some , blacklisting other drivers may help URL",
+            "speaker": "ActionParsnip"
+          },
+          {
+            "text": "still cant get it to work EMOJI",
+            "speaker": "Brando753"
+          }
+        ],
+        "context": "brando753: because i have a server `` p actionparsnip: you can run server apps on the desktop install dingdong: i got ntfs partitions on filepath and filepath how to see which is xp and which vista ? actionparsnip: you could mount them and look at the filesystem contents dingdong: ok so it 's ( hd5 , ? ) but how to find ? just try values ? actionparsnip: the partition is the 2nd number , the first is the hard drive number brando753: i installed mad wifi in ubuntu server now what ? actionparsnip: ok then run : sudo iwlist scan brando753: wlan0 interface dosent spport scanning : network is down actionparsnip: does wlan0 now have a module associated with it in lshw -c network brando753: i wouldnt know what to look for , it does say disabled actionparsnip: this may help some , blacklisting other drivers may help url brando753: still cant get it to work emoji",
+        "qas": [
+          {
+            "question": "how to see which is xp and which vista ?",
+            "id": "088ec8e5ad4eec24cb5acc8704675d89",
+            "answers": [
+              {
+                "text": "mount them and look at the filesystem contents",
+                "answer_start": 225
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how to find  ( hd5 , ? ) ?",
+            "id": "6b62c91cee117cb4fd57139a4f8bc317",
+            "answers": [
+              {
+                "text": "the partition is the 2nd number , the first is the hard drive number",
+                "answer_start": 357
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what to look for ?",
+            "id": "cb95c93e21f320a36233cf2421b18b2b",
+            "answers": [
+              {
+                "text": "blacklisting other drivers may help url",
+                "answer_start": 784
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Continuation"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "QAP"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "QAP"
+          },
+          {
+            "y": 8,
+            "x": 7,
+            "type": "Continuation"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 10,
+            "x": 9,
+            "type": "QAP"
+          },
+          {
+            "y": 11,
+            "x": 10,
+            "type": "Continuation"
+          },
+          {
+            "y": 12,
+            "x": 11,
+            "type": "Result"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "hmm ok frots , try updating your drivers ?",
+            "speaker": "Rush3d"
+          },
+          {
+            "text": "i tried with the latest and with beta",
+            "speaker": "Frots"
+          },
+          {
+            "text": "you could always just reinstall your operating system .",
+            "speaker": "Rush3d"
+          },
+          {
+            "text": "lol that wouldnt sovle anything",
+            "speaker": "Frots"
+          },
+          {
+            "text": "not really but could be a start EMOJI",
+            "speaker": "Salival"
+          },
+          {
+            "text": "gdm also got a log folder , FILEPATH .. check if the one you are using have one too",
+            "speaker": "Salival"
+          },
+          {
+            "text": "the messages log doesnt have anything special",
+            "speaker": "Frots"
+          }
+        ],
+        "context": "rush3d: hmm ok frots , try updating your drivers ? frots: i tried with the latest and with beta rush3d: you could always just reinstall your operating system . frots: lol that wouldnt sovle anything salival: not really but could be a start emoji salival: gdm also got a log folder , filepath .. check if the one you are using have one too frots: the messages log doesnt have anything special",
+        "qas": [
+          {
+            "question": "Which edition does Frots try with ?",
+            "id": "be517e61d858e2341c22aee9ae6a03c3",
+            "answers": [
+              {
+                "text": "with the latest and with beta",
+                "answer_start": 66
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the suggestion that Rush3d give to Frots",
+            "id": "f7b17e86e52cc8e307dc1a4bee48c1ab",
+            "answers": [
+              {
+                "text": "reinstall your operating system",
+                "answer_start": 126
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does Frots think of the log of gdm ?",
+            "id": "992c6b24ced101080d4214920c30d7c8",
+            "answers": [
+              {
+                "text": "doesnt have anything special",
+                "answer_start": 363
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          }
+        ]
+      }
+    ]
+  }
+}

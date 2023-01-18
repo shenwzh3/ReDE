@@ -1,0 +1,412 @@
+[
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Continuation"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Continuation"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Continuation"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Continuation"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Continuation"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Continuation"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Continuation"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Continuation"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 2,
+        "type": "Acknowledgement"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Question-answer_pair"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Correction"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "Result"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Continuation"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Continuation"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Continuation"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Contrast"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Question-answer_pair"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Elaboration"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Clarification_question"
+      }
+    ]
+  },
+  {
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 0,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Question-answer_pair"
+      },
+      {
+        "y": 8,
+        "x": 5,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 9,
+        "x": 6,
+        "type": "Question-answer_pair"
+      },
+      {
+        "y": 10,
+        "x": 9,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 11,
+        "x": 9,
+        "type": "Comment"
+      },
+      {
+        "y": 12,
+        "x": 10,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 13,
+        "x": 11,
+        "type": "Comment"
+      },
+      {
+        "y": 14,
+        "x": 12,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 15,
+        "x": 13,
+        "type": "Continuation"
+      },
+      {
+        "y": 16,
+        "x": 14,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 17,
+        "x": 16,
+        "type": "Clarification_question"
+      }
+    ]
+  }
+]

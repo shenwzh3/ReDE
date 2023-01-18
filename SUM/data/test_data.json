@@ -1,0 +1,698 @@
+[
+  {
+    "id": "13862856",
+    "summary": "Hannah needs Betty's number but Amanda doesn't have it. She needs to contact Larry.",
+    "dialogue": [
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: Hey, do you have Betty's number?"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: Lemme check"
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: <file_gif>"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: Sorry, can't find it."
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: Ask Larry"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: He called her last time we were at the park together"
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: I don't know him well"
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: <file_gif>"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: Don't be shy, he's very nice"
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: If you say so.."
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: I'd rather you texted him"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: Just text him \ud83d\ude42"
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: Urgh.. Alright"
+      },
+      {
+        "speaker": "Hannah",
+        "text": "Hannah: Bye"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: Bye bye"
+      }
+    ]
+  },
+  {
+    "id": "13729565",
+    "summary": "Eric and Rob are going to watch a stand-up on youtube.",
+    "dialogue": [
+      {
+        "speaker": "Eric",
+        "text": "Eric: MACHINE!"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: That's so gr8!"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: I know! And shows how Americans see Russian ;)"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: And it's really funny!"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: I know! I especially like the train part!"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: Hahaha! No one talks to the machine like that!"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: Is this his only stand-up?"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: Idk. I'll check."
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: Sure."
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: Turns out no! There are some of his stand-ups on youtube."
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: Gr8! I'll watch them now!"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: Me too!"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: MACHINE!"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: MACHINE!"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: TTYL?"
+      },
+      {
+        "speaker": "Rob",
+        "text": "Rob: Sure :)"
+      }
+    ]
+  },
+  {
+    "id": "13680171",
+    "summary": "Lenny can't decide which trousers to buy. Bob advised Lenny on that topic. Lenny goes with Bob's advice to pick the trousers that are of best quality.",
+    "dialogue": [
+      {
+        "speaker": "Lenny",
+        "text": "Lenny: Babe, can you help me with something?"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: Sure, what's up?"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny: Which one should I pick?"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: Send me photos"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny:  <file_photo>"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny:  <file_photo>"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny:  <file_photo>"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: I like the first ones best"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny: But I already have purple trousers. Does it make sense to have two pairs?"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: I have four black pairs :D :D"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny: yeah, but shouldn't I pick a different color?"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: what matters is what you'll give you the most outfit options"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny: So I guess I'll buy the first or the third pair then"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: Pick the best quality then"
+      },
+      {
+        "speaker": "Lenny",
+        "text": "Lenny: ur right, thx"
+      },
+      {
+        "speaker": "Bob",
+        "text": "Bob: no prob :)"
+      }
+    ]
+  },
+  {
+    "id": "13729438",
+    "summary": "Emma will be home soon and she will let Will know.",
+    "dialogue": [
+      {
+        "speaker": "Will",
+        "text": "Will: hey babe, what do you want for dinner tonight?"
+      },
+      {
+        "speaker": "Emma",
+        "text": "Emma:  gah, don't even worry about it tonight"
+      },
+      {
+        "speaker": "Will",
+        "text": "Will: what do you mean? everything ok?"
+      },
+      {
+        "speaker": "Emma",
+        "text": "Emma: not really, but it's ok, don't worry about cooking though, I'm not hungry"
+      },
+      {
+        "speaker": "Will",
+        "text": "Will: Well what time will you be home?"
+      },
+      {
+        "speaker": "Emma",
+        "text": "Emma: soon, hopefully"
+      },
+      {
+        "speaker": "Will",
+        "text": "Will: you sure? Maybe you want me to pick you up?"
+      },
+      {
+        "speaker": "Emma",
+        "text": "Emma: no no it's alright. I'll be home soon, i'll tell you when I get home. "
+      },
+      {
+        "speaker": "Will",
+        "text": "Will: Alright, love you. "
+      },
+      {
+        "speaker": "Emma",
+        "text": "Emma: love you too. "
+      }
+    ]
+  },
+  {
+    "id": "13828600",
+    "summary": "Jane is in Warsaw. Ollie and Jane has a party. Jane lost her calendar. They will get a lunch this week on Friday. Ollie accidentally called Jane and talked about whisky. Jane cancels lunch. They'll meet for a tea at 6 pm.",
+    "dialogue": [
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: Hi , are you in Warsaw"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: yes, just back! Btw are you free for diner the 19th?"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: nope!"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: and the  18th?"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: nope, we have this party and you must be there, remember?"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: oh right! i lost my calendar..  thanks for reminding me"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: we have lunch this week?"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: with pleasure!"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: friday?"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: ok"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: what do you mean \" we don't have any more whisky!\" lol.."
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: what!!!"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: you just call me and the all thing i heard was that sentence about whisky... what's wrong with you?"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: oh oh... very strange! i have to be carefull may be there is some spy in my mobile! lol"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: dont' worry, we'll check on friday."
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: don't forget to bring some sun with you"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: I can't wait to be in Morocco.."
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: enjoy and see you friday"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: sorry Ollie, i'm very busy, i won't have time for lunch  tomorrow, but may be at 6pm after my courses?this trip to Morocco was so nice, but time consuming!"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: ok for tea!"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: I'm on my way.."
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: tea is ready, did you bring the pastries?"
+      },
+      {
+        "speaker": "Jane",
+        "text": "Jane: I already ate them all... see you in a minute"
+      },
+      {
+        "speaker": "Ollie",
+        "text": "Ollie: ok"
+      }
+    ]
+  },
+  {
+    "id": "13716964",
+    "summary": "Hilary has the keys to the apartment. Benjamin wants to get them and go take a nap. Hilary is having lunch with some French people at La Cantina. Hilary is meeting them at the entrance to the conference hall at 2 pm. Benjamin and Elliot might join them. They're meeting for the drinks in the evening.",
+    "dialogue": [
+      {
+        "speaker": "Benjamin",
+        "text": "Benjamin: Hey guys, what are we doing with the keys today?"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: I've got them. Whoever wants them can meet me at lunchtime or after"
+      },
+      {
+        "speaker": "Elliot",
+        "text": "Elliot: I'm ok. We're meeting for the drinks in the evening anyway and I guess we'll be going back to the apartment together?"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: Yeah, I guess so"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Daniel: I'm with Hilary atm and won't let go of her for the rest of the day, so any option you guys choose is good for me"
+      },
+      {
+        "speaker": "Benjamin",
+        "text": "Benjamin: Hmm I might actually pass by at lunchtime, take the keys and go take a nap. I'm sooo tired after yesterday"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: Sounds good. We'll be having lunch with some French people (the ones who work on the history of food in colonial Mexico - I already see you yawning your head off)"
+      },
+      {
+        "speaker": "Benjamin",
+        "text": "Benjamin: YAAAAWN \ud83d\ude4a Where and where are you meeting?"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: So I'm meeting them at the entrance to the conference hall at 2 pm and then we'll head to this place called La Cantina. Italian cuisine, which is quite funny, but that's what they've chosen"
+      },
+      {
+        "speaker": "Benjamin",
+        "text": "Benjamin: Interesting \ud83d\ude31 To be honest, Hilary, I almost feel like changing my mind. Wanting to take this nap might end up costing me to dear"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: Oh come on \ud83d\ude02"
+      },
+      {
+        "speaker": "Benjamin",
+        "text": "Benjamin: All these terrible obstacles on mu way to bed might just prove to much to take"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: We'll try to avoid talking about their subject of research. Oh wait, no, I'm actually meeting them because I wanted to chat about their research lol"
+      },
+      {
+        "speaker": "Elliot",
+        "text": "Elliot: \ud83d\ude49"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: Do join us, we're going to have fun. And then you'll take the keys and take this most deserved of naps"
+      },
+      {
+        "speaker": "Elliot",
+        "text": "Elliot: Sounds like a plan \ud83d\ude02"
+      },
+      {
+        "speaker": "Hilary",
+        "text": "Hilary: \ud83d\ude0e"
+      },
+      {
+        "speaker": "Elliot",
+        "text": "Elliot: See you at 2 then xx"
+      }
+    ]
+  },
+  {
+    "id": "13731487",
+    "summary": "Payton provides Max with websites selling clothes. Payton likes browsing and trying on the clothes but not necessarily buying them. Payton usually buys clothes and books as he loves reading.",
+    "dialogue": [
+      {
+        "speaker": "Max",
+        "text": "Max: Know any good sites to buy clothes from?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: That's a lot of them!"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Yeah, but they have different things so I usually buy things from 2 or 3 of them."
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: I'll check them out. Thanks. "
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: No problem :)"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: How about u?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: What about me?"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Do u like shopping?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Yes and no."
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: How come?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: I like browsing, trying on, looking in the mirror and seeing how I look, but not always buying."
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Y not?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Isn't it obvious? ;)"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Sry ;)"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: If I bought everything I liked, I'd have nothing left to live on ;)"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Same here, but probably different category ;)"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Lol"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: So what do u usually buy?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Well, I have 2 things I must struggle to resist!"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Which are?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Clothes, ofc ;)"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Right. And the second one?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Books. I absolutely love reading!"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Gr8! What books do u read?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Everything I can get my hands on :)"
+      },
+      {
+        "speaker": "Max",
+        "text": "Max: Srsly?"
+      },
+      {
+        "speaker": "Payton",
+        "text": "Payton: Yup :)"
+      }
+    ]
+  },
+  {
+    "id": "13814882",
+    "summary": "Rita and Tina are bored at work and have still 4 hours left.",
+    "dialogue": [
+      {
+        "speaker": "Rita",
+        "text": "Rita: I'm so bloody tired. Falling asleep at work. :-("
+      },
+      {
+        "speaker": "Tina",
+        "text": "Tina: I know what you mean."
+      },
+      {
+        "speaker": "Tina",
+        "text": "Tina: I keep on nodding off at my keyboard hoping that the boss doesn't notice.."
+      },
+      {
+        "speaker": "Rita",
+        "text": "Rita: The time just keeps on dragging on and on and on.... "
+      },
+      {
+        "speaker": "Rita",
+        "text": "Rita: I keep on looking at the clock and there's still 4 hours of this drudgery to go."
+      },
+      {
+        "speaker": "Tina",
+        "text": "Tina: Times like these I really hate my work."
+      },
+      {
+        "speaker": "Rita",
+        "text": "Rita: I'm really not cut out for this level of boredom."
+      },
+      {
+        "speaker": "Tina",
+        "text": "Tina: Neither am I."
+      }
+    ]
+  },
+  {
+    "id": "13680876",
+    "summary": "Beatrice wants to buy Leo a scarf, but he doesn't like scarves. She cares about his health and will buy him a scarf no matter his opinion.",
+    "dialogue": [
+      {
+        "speaker": "Beatrice",
+        "text": "Beatrice: I am in town, shopping. They have nice scarfs in the shop next to the church. Do you want one?"
+      },
+      {
+        "speaker": "Leo",
+        "text": "Leo: No, thanks"
+      },
+      {
+        "speaker": "Beatrice",
+        "text": "Beatrice: But you don't have a scarf."
+      },
+      {
+        "speaker": "Leo",
+        "text": "Leo: Because I don't need it."
+      },
+      {
+        "speaker": "Beatrice",
+        "text": "Beatrice: Last winter you had a cold all the time. A scarf could help."
+      },
+      {
+        "speaker": "Leo",
+        "text": "Leo: I don't like them."
+      },
+      {
+        "speaker": "Beatrice",
+        "text": "Beatrice: Actually, I don't care. You will get a scarf."
+      },
+      {
+        "speaker": "Leo",
+        "text": "Leo: How understanding of you!"
+      },
+      {
+        "speaker": "Beatrice",
+        "text": "Beatrice: You were complaining the whole winter that you're going to die. I've had enough."
+      },
+      {
+        "speaker": "Leo",
+        "text": "Leo: Eh."
+      }
+    ]
+  },
+  {
+    "id": "13809974",
+    "summary": "Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.",
+    "dialogue": [
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: hey eric"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: yeah man"
+      },
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: so youre coming to the wedding"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: your brother's"
+      },
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: yea"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: i dont know mannn"
+      },
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: YOU DONT KNOW??"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: i just have a lot to do at home, plus i dont know if my parents would let me"
+      },
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: ill take care of your parents"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: youre telling me you have the guts to talk to them XD"
+      },
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: thats my problem"
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: okay man, if you say so"
+      },
+      {
+        "speaker": "Ivan",
+        "text": "Ivan: yea just be there "
+      },
+      {
+        "speaker": "Eric",
+        "text": "Eric: alright"
+      }
+    ]
+  }
+]

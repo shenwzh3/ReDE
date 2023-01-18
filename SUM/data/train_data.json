@@ -1,0 +1,518 @@
+[
+  {
+    "id": "13818513",
+    "summary": "Amanda baked cookies and will bring Jerry some tomorrow.",
+    "dialogue": [
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: I baked  cookies. Do you want some?"
+      },
+      {
+        "speaker": "Jerry",
+        "text": "Jerry: Sure!"
+      },
+      {
+        "speaker": "Amanda",
+        "text": "Amanda: I'll bring you tomorrow :-)"
+      }
+    ]
+  },
+  {
+    "id": "13728867",
+    "summary": "Olivia and Olivier are voting for liberals in this election. ",
+    "dialogue": [
+      {
+        "speaker": "Olivia",
+        "text": "Olivia: Who are you voting for in this election? "
+      },
+      {
+        "speaker": "Oliver",
+        "text": "Oliver: Liberals as always."
+      },
+      {
+        "speaker": "Olivia",
+        "text": "Olivia: Me too!!"
+      },
+      {
+        "speaker": "Oliver",
+        "text": "Oliver: Great"
+      }
+    ]
+  },
+  {
+    "id": "13681000",
+    "summary": "Kim may try the pomodoro technique recommended by Tim to get more stuff done.",
+    "dialogue": [
+      {
+        "speaker": "Tim",
+        "text": "Tim: Hi, what's up?"
+      },
+      {
+        "speaker": "Kim",
+        "text": "Kim: Bad mood tbh, I was going to do lots of stuff but ended up procrastinating"
+      },
+      {
+        "speaker": "Tim",
+        "text": "Tim: What did you plan on doing?"
+      },
+      {
+        "speaker": "Kim",
+        "text": "Kim: Oh you know, uni stuff and unfucking my room"
+      },
+      {
+        "speaker": "Kim",
+        "text": "Kim: Maybe tomorrow I'll move my ass and do everything"
+      },
+      {
+        "speaker": "Kim",
+        "text": "Kim: We were going to defrost a fridge so instead of shopping I'll eat some defrosted veggies"
+      },
+      {
+        "speaker": "Tim",
+        "text": "Tim: For doing stuff I recommend Pomodoro technique where u use breaks for doing chores"
+      },
+      {
+        "speaker": "Tim",
+        "text": "Tim: It really helps"
+      },
+      {
+        "speaker": "Kim",
+        "text": "Kim: thanks, maybe I'll do that"
+      },
+      {
+        "speaker": "Tim",
+        "text": "Tim: I also like using post-its in kaban style"
+      }
+    ]
+  },
+  {
+    "id": "13730747",
+    "summary": "Edward thinks he is in love with Bella. Rachel wants Edward to open his door. Rachel is outside. ",
+    "dialogue": [
+      {
+        "speaker": "Edward",
+        "text": "Edward: Rachel, I think I'm in ove with Bella.."
+      },
+      {
+        "speaker": "rachel",
+        "text": "rachel: Dont say anything else.."
+      },
+      {
+        "speaker": "Edward",
+        "text": "Edward: What do you mean??"
+      },
+      {
+        "speaker": "rachel",
+        "text": "rachel: Open your fu**ing door.. I'm outside"
+      }
+    ]
+  },
+  {
+    "id": "13728094",
+    "summary": "Sam is confused, because he overheard Rick complaining about him as a roommate. Naomi thinks Sam should talk to Rick. Sam is not sure what to do.",
+    "dialogue": [
+      {
+        "speaker": "Sam",
+        "text": "Sam: hey  overheard rick say something"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: i don't know what to do :-/"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: what did he say??"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: he was talking on the phone with someone"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: i don't know who"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: and he was telling them that he wasn't very happy here"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: damn!!!"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: he was saying he doesn't like being my roommate"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: wow, how do you feel about it?"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: i thought i was a good rommate"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: and that we have a nice place"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: that's true man!!!"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: i used to love living with you before i moved in with me boyfriend"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: i don't know why he's saying that"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: what should i do???"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: honestly if it's bothering you that much you should talk to him"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: see what's going on"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: i don't want to get in any kind of confrontation though"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: maybe i'll just let it go"
+      },
+      {
+        "speaker": "Sam",
+        "text": "Sam: and see how it goes in the future"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: it's your choice sam"
+      },
+      {
+        "speaker": "Naomi",
+        "text": "Naomi: if i were you i would just talk to him and clear the air"
+      }
+    ]
+  },
+  {
+    "id": "13716343",
+    "summary": "Wyatt reminds Neville his wedding anniversary is on the 17th of September. Neville's wife is upset and it might be because Neville forgot about their anniversary.",
+    "dialogue": [
+      {
+        "speaker": "Neville",
+        "text": "Neville: Hi there, does anyone remember what date I got married on?"
+      },
+      {
+        "speaker": "Don",
+        "text": "Don: Are you serious?"
+      },
+      {
+        "speaker": "Neville",
+        "text": "Neville: Dead serious. We're on vacation, and Tina's mad at me about something. I have a strange suspicion that this might have something to do with our wedding anniversary, but I have nowhere to check."
+      },
+      {
+        "speaker": "Wyatt",
+        "text": "Wyatt: Hang on, I'll ask my wife."
+      },
+      {
+        "speaker": "Don",
+        "text": "Don: Haha, someone's in a lot of trouble :D"
+      },
+      {
+        "speaker": "Wyatt",
+        "text": "Wyatt: September 17. I hope you remember the year ;)"
+      }
+    ]
+  },
+  {
+    "id": "13611672",
+    "summary": "John didn't show up for class due to some work issues with his boss. Cassandra, his teacher told him which exercises to do, and which chapter to study. They are going to meet up for a beer sometime this week after class. ",
+    "dialogue": [
+      {
+        "speaker": "John",
+        "text": "John: Ave. Was there any homework for tomorrow?"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: hello :D Of course, as always :D"
+      },
+      {
+        "speaker": "John",
+        "text": "John: What exactly?"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: I'm not sure so I'll check it for you in 20minutes. "
+      },
+      {
+        "speaker": "John",
+        "text": "John: Cool, thanks. Sorry I couldn't be there, but I was busy as fuck...my stupid boss as always was trying to piss me off"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: No problem, what did he do this time?"
+      },
+      {
+        "speaker": "John",
+        "text": "John: Nothing special, just the same as always, treating us like children, commanding to do this and that..."
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: sorry to hear that. but why don't you just go to your chief and tell him everything?"
+      },
+      {
+        "speaker": "John",
+        "text": "John: I would, but I don't have any support from others, they are like goddamn pupets and pretend that everything's fine...I'm not gonna fix everything for everyone"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: I understand...Nevertheless, just try to ignore him. I know it might sound ridiculous as fuck, but sometimes there's nothing more you can do."
+      },
+      {
+        "speaker": "John",
+        "text": "John: yeah I know...maybe some beer this week?"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: Sure, but I got some time after classes only...this week is gonna be busy"
+      },
+      {
+        "speaker": "John",
+        "text": "John: no problem, I can drive you home and we can go to some bar or whatever."
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: cool. ok, I got this homework. it's page 15 ex. 2 and 3, I also asked the others to study another chapter, especially the vocabulary from the very first pages. Just read it."
+      },
+      {
+        "speaker": "John",
+        "text": "John: gosh...I don't know if I'm smart enough to do it :'D"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: you are, don't worry :P Just circle all the words you don't know and we'll continue on Monday."
+      },
+      {
+        "speaker": "John",
+        "text": "John: ok...then I'll try my best :D"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: sure, if you will have any questions just either text or call me and I'll help you."
+      },
+      {
+        "speaker": "John",
+        "text": "John: I hope I won't have to waste your time xD"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: you're not wasting my time, I'm your teacher, I'm here to help. This is what I get money for, also :P"
+      },
+      {
+        "speaker": "John",
+        "text": "John: just kidding :D ok, so i guess we'll stay in touch then"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: sure, have a nice evening :D"
+      },
+      {
+        "speaker": "John",
+        "text": "John: you too, se ya"
+      },
+      {
+        "speaker": "Cassandra",
+        "text": "Cassandra: Byeeeee"
+      }
+    ]
+  },
+  {
+    "id": "13730463",
+    "summary": "Sarah sends James an instrumental song he might like. James knows the song. The brain connects the songs to the context they were played in and brings to mind the associated memories.",
+    "dialogue": [
+      {
+        "speaker": "Sarah",
+        "text": "Sarah: I found a song on youtube and I think you'll like it"
+      },
+      {
+        "speaker": "James",
+        "text": "James: What song?"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sarah: <file_other>"
+      },
+      {
+        "speaker": "James",
+        "text": "James: Oh. I know it! "
+      },
+      {
+        "speaker": "James",
+        "text": "James: I heard it before in some compilation"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sarah: I can't stop playing it over and over"
+      },
+      {
+        "speaker": "James",
+        "text": "James: That's exactly how I know lyrics to all of the songs on my playlist :D"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sarah: Haha. No lyrics here though. Instrumental ;D"
+      },
+      {
+        "speaker": "James",
+        "text": "James: Instrumental songs are different kind of music. "
+      },
+      {
+        "speaker": "James",
+        "text": "James: But you have to remember that the activity you do when you listen to this song"
+      },
+      {
+        "speaker": "James",
+        "text": "James: Is the actvity your brain will connect to the song"
+      },
+      {
+        "speaker": "James",
+        "text": "James: And everytime you play this song at home"
+      },
+      {
+        "speaker": "James",
+        "text": "James: You'll be thinking of your work"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sarah: Yeah, I know that. That's why we sometimes say - I used to like that song, but now it just reminds me of bad memories"
+      },
+      {
+        "speaker": "James",
+        "text": "James: Yup. Everytime you change your partner, you have to get rid of your favorite music :D"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sarah: Hahaha. True, true."
+      }
+    ]
+  },
+  {
+    "id": "13809976",
+    "summary": "Noah wants to meet, he quit his job, because his boss was a dick.",
+    "dialogue": [
+      {
+        "speaker": "Noah",
+        "text": "Noah: When and where are we meeting? :)"
+      },
+      {
+        "speaker": "Madison",
+        "text": "Madison: I thought you were busy...?"
+      },
+      {
+        "speaker": "Noah",
+        "text": "Noah: Yeah, I WAS. I quit my job. "
+      },
+      {
+        "speaker": "Madison",
+        "text": "Madison: No way! :o :o :o Why? I thought you liked it...?"
+      },
+      {
+        "speaker": "Noah",
+        "text": "Noah: Well, I used to, until my boss turned into a complete cock... Long story."
+      }
+    ]
+  },
+  {
+    "id": "13809912",
+    "summary": "Matt invites Agnes for a date to get to know each other better. They'll go to the Georgian restaurant in Kazimierz on Saturday at 6 pm, and he'll pick her up on the way to the place.",
+    "dialogue": [
+      {
+        "speaker": "Matt",
+        "text": "Matt: Do you want to go for date?"
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: Wow! You caught me out with this question Matt."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: Why?"
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: I simply didn't expect this from you."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: Well, expect the unexpected."
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: Can I think about it?"
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: What is there to think about?"
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: Well, I don't really know you."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: This is the perfect time to get to know eachother"
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: Well that's true."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: So let's go to the Georgian restaurant in Kazimierz."
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: Now your convincing me."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: Cool, saturday at 6pm?"
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: That's fine."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: I can pick you up on the way to the restaurant."
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: That's really kind of you."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: No problem."
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: See you on saturday."
+      },
+      {
+        "speaker": "Matt",
+        "text": "Matt: Yes, looking forward to it."
+      },
+      {
+        "speaker": "Agnes",
+        "text": "Agnes: Me too."
+      }
+    ]
+  }
+]

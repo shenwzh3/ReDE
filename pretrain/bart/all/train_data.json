@@ -1,0 +1,716 @@
+[
+  {
+    "dialog": [
+      {
+        "text": "bacon5o there 's no `` fixmbr '' with ubuntu ."
+      },
+      {
+        "text": "i dont want ubuntu , it does n't support my internet , thus i can not use it"
+      },
+      {
+        "text": "my ati has no aiglx support so i ca n't speak for how FILEPATH is"
+      },
+      {
+        "text": "your internet is different from mine ? damn bush and his internets !"
+      },
+      {
+        "text": "my internet is differentwhy you ask ?"
+      },
+      {
+        "text": "your possesive `` my '' on the internet"
+      },
+      {
+        "text": "i use a wireless accesspoint that plugs into my usb which then goes into my motherboard"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Q-Elab"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "hi seveas EMOJI saving the world again ! : d"
+      },
+      {
+        "text": "only because i was digging through a gig of postfix logs EMOJI"
+      },
+      {
+        "text": "i know you can type a hell of alot faster than me !"
+      },
+      {
+        "text": "breakfast what time is it there ?"
+      },
+      {
+        "text": "i thought you knew that"
+      },
+      {
+        "text": "you are in the future her it is 11:18"
+      },
+      {
+        "text": "but in a few minutes i 'm ready for the lunch ! ! !"
+      },
+      {
+        "text": "ive unplugged it but the card is n't present.."
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Result"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "hi seveas EMOJI saving the world again ! : d"
+      },
+      {
+        "text": "only because i was digging through a gig of postfix logs EMOJI"
+      },
+      {
+        "text": "i know you can type a hell of alot faster than me !"
+      },
+      {
+        "text": "breakfast what time is it there ?"
+      },
+      {
+        "text": "i thought you knew that"
+      },
+      {
+        "text": "do you know how to unistall realplayer , i 'installed ' it fromt the bin file ."
+      },
+      {
+        "text": "you are in the future her it is 11:18"
+      },
+      {
+        "text": "ive unplugged it but the card is n't present.."
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Result"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "hi seveas EMOJI saving the world again ! : d"
+      },
+      {
+        "text": "only because i was digging through a gig of postfix logs EMOJI"
+      },
+      {
+        "text": "i know you can type a hell of alot faster than me !"
+      },
+      {
+        "text": "breakfast what time is it there ?"
+      },
+      {
+        "text": "i thought you knew that"
+      },
+      {
+        "text": "do you know how to unistall realplayer , i 'installed ' it fromt the bin file ."
+      },
+      {
+        "text": "you are in the future her it is 11:18"
+      },
+      {
+        "text": "but in a few minutes i 'm ready for the lunch ! ! !"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Result"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 6,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 1,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "i just tried to use the win xp driverbecause the system is n't running my card :"
+      },
+      {
+        "text": "you do n't need a linux god you need"
+      },
+      {
+        "text": "one moment , that i find it"
+      },
+      {
+        "text": "ok , it seems to work how can i create pdf files instead ?"
+      },
+      {
+        "text": "use openoffice and use the export function"
+      },
+      {
+        "text": "thanks , it seems to be very simple"
+      },
+      {
+        "text": "you can run the command now too EMOJI"
+      },
+      {
+        "text": "it seems that it can find no packages"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "QAP"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "i just tried to use the win xp driverbecause the system is n't running my card :"
+      },
+      {
+        "text": "you do n't need a linux god you need"
+      },
+      {
+        "text": "i 've done this all before..but it does n't work :"
+      },
+      {
+        "text": "ok , it seems to work how can i create pdf files instead ?"
+      },
+      {
+        "text": "use openoffice and use the export function"
+      },
+      {
+        "text": "thanks , it seems to be very simple"
+      },
+      {
+        "text": "you can run the command now too EMOJI"
+      },
+      {
+        "text": "it seems that it can find no packages"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "QAP"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Comment"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "i just tried to use the win xp driverbecause the system is n't running my card :"
+      },
+      {
+        "text": "you do n't need a linux god you need"
+      },
+      {
+        "text": "i 've done this all before..but it does n't work :"
+      },
+      {
+        "text": "one moment , that i find it"
+      },
+      {
+        "text": "ok , it seems to work how can i create pdf files instead ?"
+      },
+      {
+        "text": "use openoffice and use the export function"
+      },
+      {
+        "text": "thanks , it seems to be very simple"
+      },
+      {
+        "text": "you can run the command now too EMOJI"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 1,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "i know , but if you 're hooked on windows games , it 's the best place for you"
+      },
+      {
+        "text": "so not using them is like , burning money"
+      },
+      {
+        "text": "for most people i imagine they 're free"
+      },
+      {
+        "text": "how do you figure that ?"
+      },
+      {
+        "text": "glest is a pretty good rts for linux"
+      },
+      {
+        "text": "illegal downloads , piracy , you know ."
+      },
+      {
+        "text": "yeah , we do n't discuss such things here"
+      },
+      {
+        "text": "yeah we 're trying to convince the industry linux users are n't freeloaders"
+      },
+      {
+        "text": "i was just saying - the price of games is n't a concern for most windows users"
+      },
+      {
+        "text": "you do n't know what you 're talking about"
+      },
+      {
+        "text": "that isnt true . the average user doesnt even understand p2p"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 1,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 4,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Correction"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 8,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "i know , but if you 're hooked on windows games , it 's the best place for you"
+      },
+      {
+        "text": "ok , well windows games cost money"
+      },
+      {
+        "text": "so not using them is like , burning money"
+      },
+      {
+        "text": "for most people i imagine they 're free"
+      },
+      {
+        "text": "how do you figure that ?"
+      },
+      {
+        "text": "illegal downloads , piracy , you know ."
+      },
+      {
+        "text": "yeah , we do n't discuss such things here"
+      },
+      {
+        "text": "yeah we 're trying to convince the industry linux users are n't freeloaders"
+      },
+      {
+        "text": "i was just saying - the price of games is n't a concern for most windows users"
+      },
+      {
+        "text": "you do n't know what you 're talking about"
+      },
+      {
+        "text": "that isnt true . the average user doesnt even understand p2p"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 4,
+        "type": "QAP"
+      },
+      {
+        "y": 6,
+        "x": 5,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 7,
+        "x": 5,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 8,
+        "x": 6,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 8,
+        "type": "Comment"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "text": "i know , but if you 're hooked on windows games , it 's the best place for you"
+      },
+      {
+        "text": "ok , well windows games cost money"
+      },
+      {
+        "text": "so not using them is like , burning money"
+      },
+      {
+        "text": "for most people i imagine they 're free"
+      },
+      {
+        "text": "how do you figure that ?"
+      },
+      {
+        "text": "glest is a pretty good rts for linux"
+      },
+      {
+        "text": "illegal downloads , piracy , you know ."
+      },
+      {
+        "text": "yeah , we do n't discuss such things here"
+      },
+      {
+        "text": "i was just saying - the price of games is n't a concern for most windows users"
+      },
+      {
+        "text": "you do n't know what you 're talking about"
+      },
+      {
+        "text": "that isnt true . the average user doesnt even understand p2p"
+      }
+    ],
+    "relations": [
+      {
+        "y": 1,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 2,
+        "x": 0,
+        "type": "Comment"
+      },
+      {
+        "y": 3,
+        "x": 2,
+        "type": "Comment"
+      },
+      {
+        "y": 4,
+        "x": 3,
+        "type": "Clarification_question"
+      },
+      {
+        "y": 5,
+        "x": 3,
+        "type": "Comment"
+      },
+      {
+        "y": 6,
+        "x": 4,
+        "type": "QAP"
+      },
+      {
+        "y": 7,
+        "x": 6,
+        "type": "Acknowledgement"
+      },
+      {
+        "y": 8,
+        "x": 7,
+        "type": "Comment"
+      },
+      {
+        "y": 9,
+        "x": 8,
+        "type": "Comment"
+      },
+      {
+        "y": 10,
+        "x": 8,
+        "type": "Comment"
+      }
+    ]
+  }
+]

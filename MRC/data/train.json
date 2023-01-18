@@ -1,0 +1,1154 @@
+{
+  "data": {
+    "dialogues": [
+      {
+        "edus": [
+          {
+            "text": "bacon5o there 's no `` fixmbr '' with ubuntu .",
+            "speaker": "sipher"
+          },
+          {
+            "text": "i dont want ubuntu , it does n't support my internet , thus i can not use it",
+            "speaker": "Bacon5o"
+          },
+          {
+            "text": "my ati has no aiglx support so i ca n't speak for how FILEPATH is",
+            "speaker": "morfic"
+          },
+          {
+            "text": "your internet is different from mine ? damn bush and his internets !",
+            "speaker": "morfic"
+          },
+          {
+            "text": "my internet is differentwhy you ask ?",
+            "speaker": "Bacon5o"
+          },
+          {
+            "text": "your possesive `` my '' on the internet",
+            "speaker": "morfic"
+          },
+          {
+            "text": "i use a wireless accesspoint that plugs into my usb which then goes into my motherboard",
+            "speaker": "Bacon5o"
+          }
+        ],
+        "context": "sipher: bacon5o there 's no `` fixmbr '' with ubuntu . bacon5o: i dont want ubuntu , it does n't support my internet , thus i can not use it morfic: my ati has no aiglx support so i ca n't speak for how filepath is morfic: your internet is different from mine ? damn bush and his internets ! bacon5o: my internet is differentwhy you ask ? morfic: your possesive `` my '' on the internet bacon5o: i use a wireless accesspoint that plugs into my usb which then goes into my motherboard",
+        "qas": [
+          {
+            "question": "Why does Bacon5o not want ubuntu ?",
+            "id": "f44090680211f17295b1248f4c087491",
+            "answers": [
+              {
+                "text": "it does n't support my internet",
+                "answer_start": 85
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does Bacon5o use to plugs into usb ?",
+            "id": "df86526b09cba3a405f26813d626ba6b",
+            "answers": [
+              {
+                "text": "a wireless accesspoint",
+                "answer_start": 402
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did sipher use ?",
+            "id": "513551a33f9852e28ca4a59b694f1c79",
+            "plausible_answers": [
+              {
+                "text": "a wireless accesspoint",
+                "answer_start": 402
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "hi seveas EMOJI saving the world again ! : d",
+            "speaker": "selinium"
+          },
+          {
+            "text": "only because i was digging through a gig of postfix logs EMOJI",
+            "speaker": "Seveas"
+          },
+          {
+            "text": "i know you can type a hell of alot faster than me !",
+            "speaker": "selinium"
+          },
+          {
+            "text": "breakfast what time is it there ?",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "i thought you knew that",
+            "speaker": "nalioth"
+          },
+          {
+            "text": "you are in the future her it is 11:18",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "but in a few minutes i 'm ready for the lunch ! ! !",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "ive unplugged it but the card is n't present..",
+            "speaker": "pad"
+          }
+        ],
+        "context": "selinium: hi seveas emoji saving the world again ! : d seveas: only because i was digging through a gig of postfix logs emoji selinium: i know you can type a hell of alot faster than me ! gerarcone: breakfast what time is it there ? nalioth: i thought you knew that ompaul: you are in the future her it is 11:18 gerarcone: but in a few minutes i 'm ready for the lunch ! ! ! pad: ive unplugged it but the card is n't present..",
+        "qas": [
+          {
+            "question": "what does selinium know ?",
+            "id": "d8d4edbaa849ff7fdd7e22a64446d481",
+            "answers": [
+              {
+                "text": "you can type a hell of alot faster than me",
+                "answer_start": 143
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does gerarcone do in a few minutes ?",
+            "id": "be8b21e5de4097dcd176ee03cc6f5b28",
+            "answers": [
+              {
+                "text": "ready for the lunch",
+                "answer_start": 349
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how to unistall realplayer ?",
+            "id": "7bf781c9ef21b765cdab77ec38add3a2",
+            "plausible_answers": [
+              {
+                "text": "unplugged it",
+                "answer_start": 384
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Result"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 5,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "hi seveas EMOJI saving the world again ! : d",
+            "speaker": "selinium"
+          },
+          {
+            "text": "only because i was digging through a gig of postfix logs EMOJI",
+            "speaker": "Seveas"
+          },
+          {
+            "text": "i know you can type a hell of alot faster than me !",
+            "speaker": "selinium"
+          },
+          {
+            "text": "breakfast what time is it there ?",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "i thought you knew that",
+            "speaker": "nalioth"
+          },
+          {
+            "text": "do you know how to unistall realplayer , i 'installed ' it fromt the bin file .",
+            "speaker": "selinium"
+          },
+          {
+            "text": "you are in the future her it is 11:18",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "ive unplugged it but the card is n't present..",
+            "speaker": "pad"
+          }
+        ],
+        "context": "selinium: hi seveas emoji saving the world again ! : d seveas: only because i was digging through a gig of postfix logs emoji selinium: i know you can type a hell of alot faster than me ! gerarcone: breakfast what time is it there ? nalioth: i thought you knew that selinium: do you know how to unistall realplayer , i 'installed ' it fromt the bin file . ompaul: you are in the future her it is 11:18 pad: ive unplugged it but the card is n't present..",
+        "qas": [
+          {
+            "question": "what does selinium know ?",
+            "id": "55ba6fd6e9cdb6f6feb21eae1ede4ce1",
+            "answers": [
+              {
+                "text": "you can type a hell of alot faster than me",
+                "answer_start": 143
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does gerarcone want to know about ?",
+            "id": "7abf958da8a97d1a4d0849bf5fcfa11f",
+            "answers": [
+              {
+                "text": "breakfast",
+                "answer_start": 199
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how to unistall realplayer ?",
+            "id": "3183d7fc167333a4644a15f716d7a1bc",
+            "plausible_answers": [
+              {
+                "text": "unplugged it",
+                "answer_start": 411
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Result"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 6,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "hi seveas EMOJI saving the world again ! : d",
+            "speaker": "selinium"
+          },
+          {
+            "text": "only because i was digging through a gig of postfix logs EMOJI",
+            "speaker": "Seveas"
+          },
+          {
+            "text": "i know you can type a hell of alot faster than me !",
+            "speaker": "selinium"
+          },
+          {
+            "text": "breakfast what time is it there ?",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "i thought you knew that",
+            "speaker": "nalioth"
+          },
+          {
+            "text": "do you know how to unistall realplayer , i 'installed ' it fromt the bin file .",
+            "speaker": "selinium"
+          },
+          {
+            "text": "you are in the future her it is 11:18",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "but in a few minutes i 'm ready for the lunch ! ! !",
+            "speaker": "gerarcone"
+          }
+        ],
+        "context": "selinium: hi seveas emoji saving the world again ! : d seveas: only because i was digging through a gig of postfix logs emoji selinium: i know you can type a hell of alot faster than me ! gerarcone: breakfast what time is it there ? nalioth: i thought you knew that selinium: do you know how to unistall realplayer , i 'installed ' it fromt the bin file . ompaul: you are in the future her it is 11:18 gerarcone: but in a few minutes i 'm ready for the lunch ! ! !",
+        "qas": [
+          {
+            "question": "what does selinium know ?",
+            "id": "955470e74e131945700afe1a03ec5095",
+            "answers": [
+              {
+                "text": "you can type a hell of alot faster than me",
+                "answer_start": 143
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does gerarcone do in a few minutes ?",
+            "id": "f4b0db24932cce51f4054e91b005bd21",
+            "answers": [
+              {
+                "text": "ready for the lunch",
+                "answer_start": 439
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Result"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 6,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 1,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i just tried to use the win xp driverbecause the system is n't running my card :",
+            "speaker": "pad"
+          },
+          {
+            "text": "you do n't need a linux god you need",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "one moment , that i find it",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "ok , it seems to work how can i create pdf files instead ?",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "use openoffice and use the export function",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "thanks , it seems to be very simple",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "you can run the command now too EMOJI",
+            "speaker": "Seveas"
+          },
+          {
+            "text": "it seems that it can find no packages",
+            "speaker": "gerarcone"
+          }
+        ],
+        "context": "pad: i just tried to use the win xp driverbecause the system is n't running my card : ompaul: you do n't need a linux god you need gerarcone: one moment , that i find it gerarcone: ok , it seems to work how can i create pdf files instead ? ompaul: use openoffice and use the export function gerarcone: thanks , it seems to be very simple seveas: you can run the command now too emoji gerarcone: it seems that it can find no packages",
+        "qas": [
+          {
+            "question": "Why does pad try to use the win xp driver ?",
+            "id": "d83d0fd5ea516d68286e466616e972f7",
+            "answers": [
+              {
+                "text": "because the system is n't running my card",
+                "answer_start": 42
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how can gerarcone create pdf files instead ?",
+            "id": "93096863c49276bd44efd63b6d113edb",
+            "answers": [
+              {
+                "text": "use openoffice and use the export function",
+                "answer_start": 248
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does it seem ?",
+            "id": "33043d1a8bef94a4df83f100976bd1a3",
+            "plausible_answers": [
+              {
+                "text": "it can find no packages",
+                "answer_start": 409
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i just tried to use the win xp driverbecause the system is n't running my card :",
+            "speaker": "pad"
+          },
+          {
+            "text": "you do n't need a linux god you need",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "i 've done this all before..but it does n't work :",
+            "speaker": "pad"
+          },
+          {
+            "text": "ok , it seems to work how can i create pdf files instead ?",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "use openoffice and use the export function",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "thanks , it seems to be very simple",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "you can run the command now too EMOJI",
+            "speaker": "Seveas"
+          },
+          {
+            "text": "it seems that it can find no packages",
+            "speaker": "gerarcone"
+          }
+        ],
+        "context": "pad: i just tried to use the win xp driverbecause the system is n't running my card : ompaul: you do n't need a linux god you need pad: i 've done this all before..but it does n't work : gerarcone: ok , it seems to work how can i create pdf files instead ? ompaul: use openoffice and use the export function gerarcone: thanks , it seems to be very simple seveas: you can run the command now too emoji gerarcone: it seems that it can find no packages",
+        "qas": [
+          {
+            "question": "Why does pad try to use the win xp driver ?",
+            "id": "d50607deeaf1da9d88d44736fa60cfbf",
+            "answers": [
+              {
+                "text": "because the system is n't running my card",
+                "answer_start": 42
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how can gerarcone create pdf files instead ?",
+            "id": "ebc31014193c89d782e1b3fe93a80148",
+            "answers": [
+              {
+                "text": "use openoffice and use the export function",
+                "answer_start": 265
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does it seem ?",
+            "id": "1407fe5de090780540f59f70980cf673",
+            "plausible_answers": [
+              {
+                "text": "it can find no packages",
+                "answer_start": 426
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i just tried to use the win xp driverbecause the system is n't running my card :",
+            "speaker": "pad"
+          },
+          {
+            "text": "you do n't need a linux god you need",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "i 've done this all before..but it does n't work :",
+            "speaker": "pad"
+          },
+          {
+            "text": "one moment , that i find it",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "ok , it seems to work how can i create pdf files instead ?",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "use openoffice and use the export function",
+            "speaker": "ompaul"
+          },
+          {
+            "text": "thanks , it seems to be very simple",
+            "speaker": "gerarcone"
+          },
+          {
+            "text": "you can run the command now too EMOJI",
+            "speaker": "Seveas"
+          }
+        ],
+        "context": "pad: i just tried to use the win xp driverbecause the system is n't running my card : ompaul: you do n't need a linux god you need pad: i 've done this all before..but it does n't work : gerarcone: one moment , that i find it gerarcone: ok , it seems to work how can i create pdf files instead ? ompaul: use openoffice and use the export function gerarcone: thanks , it seems to be very simple seveas: you can run the command now too emoji",
+        "qas": [
+          {
+            "question": "Why does pad try to use the win xp driver ?",
+            "id": "e41ed9b464bb47d3c0085d88dc4428ac",
+            "answers": [
+              {
+                "text": "because the system is n't running my card",
+                "answer_start": 42
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how can gerarcone create pdf files instead ?",
+            "id": "ee1939bdfb4914441c22dcb5a3bbc59e",
+            "answers": [
+              {
+                "text": "use openoffice and use the export function",
+                "answer_start": 304
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i know , but if you 're hooked on windows games , it 's the best place for you",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "so not using them is like , burning money",
+            "speaker": "zyph"
+          },
+          {
+            "text": "for most people i imagine they 're free",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "how do you figure that ?",
+            "speaker": "tritium"
+          },
+          {
+            "text": "glest is a pretty good rts for linux",
+            "speaker": "zyph"
+          },
+          {
+            "text": "illegal downloads , piracy , you know .",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "yeah , we do n't discuss such things here",
+            "speaker": "tritium"
+          },
+          {
+            "text": "yeah we 're trying to convince the industry linux users are n't freeloaders",
+            "speaker": "zyph"
+          },
+          {
+            "text": "i was just saying - the price of games is n't a concern for most windows users",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "you do n't know what you 're talking about",
+            "speaker": "zyph"
+          },
+          {
+            "text": "that isnt true . the average user doesnt even understand p2p",
+            "speaker": "ritalin"
+          }
+        ],
+        "context": "dooglus: i know , but if you 're hooked on windows games , it 's the best place for you zyph: so not using them is like , burning money dooglus: for most people i imagine they 're free tritium: how do you figure that ? zyph: glest is a pretty good rts for linux dooglus: illegal downloads , piracy , you know . tritium: yeah , we do n't discuss such things here zyph: yeah we 're trying to convince the industry linux users are n't freeloaders dooglus: i was just saying - the price of games is n't a concern for most windows users zyph: you do n't know what you 're talking about ritalin: that isnt true . the average user doesnt even understand p2p",
+        "qas": [
+          {
+            "question": "what is not using them like ?",
+            "id": "bd9e93002156a3adf6306fce9e1f3947",
+            "answers": [
+              {
+                "text": "burning money",
+                "answer_start": 122
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is a pretty good rts for linux ?",
+            "id": "eb6aea065469a87062c9baedc9206078",
+            "answers": [
+              {
+                "text": "glest",
+                "answer_start": 225
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what are they trying to convince ?",
+            "id": "f9155a2d65a4b9cfdda70ddb0b6d1070",
+            "plausible_answers": [
+              {
+                "text": "the average user doesnt even understand p2p",
+                "answer_start": 607
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 7,
+            "x": 5,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 8,
+            "x": 6,
+            "type": "Correction"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Comment"
+          },
+          {
+            "y": 10,
+            "x": 8,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i know , but if you 're hooked on windows games , it 's the best place for you",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "ok , well windows games cost money",
+            "speaker": "zyph"
+          },
+          {
+            "text": "so not using them is like , burning money",
+            "speaker": "zyph"
+          },
+          {
+            "text": "for most people i imagine they 're free",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "how do you figure that ?",
+            "speaker": "tritium"
+          },
+          {
+            "text": "illegal downloads , piracy , you know .",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "yeah , we do n't discuss such things here",
+            "speaker": "tritium"
+          },
+          {
+            "text": "yeah we 're trying to convince the industry linux users are n't freeloaders",
+            "speaker": "zyph"
+          },
+          {
+            "text": "i was just saying - the price of games is n't a concern for most windows users",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "you do n't know what you 're talking about",
+            "speaker": "zyph"
+          },
+          {
+            "text": "that isnt true . the average user doesnt even understand p2p",
+            "speaker": "ritalin"
+          }
+        ],
+        "context": "dooglus: i know , but if you 're hooked on windows games , it 's the best place for you zyph: ok , well windows games cost money zyph: so not using them is like , burning money dooglus: for most people i imagine they 're free tritium: how do you figure that ? dooglus: illegal downloads , piracy , you know . tritium: yeah , we do n't discuss such things here zyph: yeah we 're trying to convince the industry linux users are n't freeloaders dooglus: i was just saying - the price of games is n't a concern for most windows users zyph: you do n't know what you 're talking about ritalin: that isnt true . the average user doesnt even understand p2p",
+        "qas": [
+          {
+            "question": "what is not using them like ?",
+            "id": "8e25e55ff8cf5c588571644e960e7db3",
+            "answers": [
+              {
+                "text": "burning money",
+                "answer_start": 163
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what did dooglus figure that ?",
+            "id": "29dd9ca400a41e40be8c5c77d6605a7c",
+            "answers": [
+              {
+                "text": "illegal downloads",
+                "answer_start": 269
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what are they trying to convince ?",
+            "id": "df55f8bddb3ef18fe4d25b1dde5af816",
+            "plausible_answers": [
+              {
+                "text": "the average user doesnt even understand p2p",
+                "answer_start": 605
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 7,
+            "x": 5,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 8,
+            "x": 6,
+            "type": "Comment"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Comment"
+          },
+          {
+            "y": 10,
+            "x": 8,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i know , but if you 're hooked on windows games , it 's the best place for you",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "ok , well windows games cost money",
+            "speaker": "zyph"
+          },
+          {
+            "text": "so not using them is like , burning money",
+            "speaker": "zyph"
+          },
+          {
+            "text": "for most people i imagine they 're free",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "how do you figure that ?",
+            "speaker": "tritium"
+          },
+          {
+            "text": "glest is a pretty good rts for linux",
+            "speaker": "zyph"
+          },
+          {
+            "text": "illegal downloads , piracy , you know .",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "yeah , we do n't discuss such things here",
+            "speaker": "tritium"
+          },
+          {
+            "text": "i was just saying - the price of games is n't a concern for most windows users",
+            "speaker": "dooglus"
+          },
+          {
+            "text": "you do n't know what you 're talking about",
+            "speaker": "zyph"
+          },
+          {
+            "text": "that isnt true . the average user doesnt even understand p2p",
+            "speaker": "ritalin"
+          }
+        ],
+        "context": "dooglus: i know , but if you 're hooked on windows games , it 's the best place for you zyph: ok , well windows games cost money zyph: so not using them is like , burning money dooglus: for most people i imagine they 're free tritium: how do you figure that ? zyph: glest is a pretty good rts for linux dooglus: illegal downloads , piracy , you know . tritium: yeah , we do n't discuss such things here dooglus: i was just saying - the price of games is n't a concern for most windows users zyph: you do n't know what you 're talking about ritalin: that isnt true . the average user doesnt even understand p2p",
+        "qas": [
+          {
+            "question": "what is not using them like ?",
+            "id": "364545896c2ca610a622c2e111372ccf",
+            "answers": [
+              {
+                "text": "burning money",
+                "answer_start": 163
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is a pretty good rts for linux ?",
+            "id": "fac311e31a7e5dfcca1eb0e0ec3233ac",
+            "answers": [
+              {
+                "text": "glest",
+                "answer_start": 266
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what are they trying to convince ?",
+            "id": "0c7d16b4cdf79bff8fdafb7a44e0744a",
+            "plausible_answers": [
+              {
+                "text": "the average user doesnt even understand p2p",
+                "answer_start": 566
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Comment"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 8,
+            "x": 7,
+            "type": "Comment"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Comment"
+          },
+          {
+            "y": 10,
+            "x": 8,
+            "type": "Comment"
+          }
+        ]
+      }
+    ]
+  }
+}

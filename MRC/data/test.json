@@ -1,0 +1,4070 @@
+{
+  "data": {
+    "dialogues": [
+      {
+        "edus": [
+          {
+            "text": "that i use between linux and windows",
+            "speaker": "JuJuBee_"
+          },
+          {
+            "text": "did you mount it with fstab ? give us a pastebin of the fstab that is probably it eh.EMOJI",
+            "speaker": "nit-wit"
+          },
+          {
+            "text": "it 's treated as a mount mask",
+            "speaker": "ikonia"
+          },
+          {
+            "text": "umask are subtracted , so your other group has no permission",
+            "speaker": "zykotick9"
+          },
+          {
+            "text": "what ever permissions you feel fit",
+            "speaker": "ikonia"
+          },
+          {
+            "text": "outdated by loads , it has 9.04 as the newest version",
+            "speaker": "MrNthDegree"
+          },
+          {
+            "text": "they are back in 9.04 : s",
+            "speaker": "SuperMiguel"
+          }
+        ],
+        "context": "jujubee_: that i use between linux and windows nit-wit: did you mount it with fstab ? give us a pastebin of the fstab that is probably it eh.emoji ikonia: it 's treated as a mount mask zykotick9: umask are subtracted , so your other group has no permission ikonia: what ever permissions you feel fit mrnthdegree: outdated by loads , it has 9.04 as the newest version supermiguel: they are back in 9.04 : s",
+        "qas": [
+          {
+            "question": "Where does JuJuBee_ use ?",
+            "id": "3f45971d1b432a674e1098bb80ebe70c",
+            "answers": [
+              {
+                "text": "between linux and windows",
+                "answer_start": 21
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why does the other group have no permission ?",
+            "id": "2de5de0ef84ce7184d0209c0bab6982d",
+            "answers": [
+              {
+                "text": "umask are subtracted",
+                "answer_start": 196
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the newest version ?",
+            "id": "c49320ce9a2a84b26c44c26198a2c804",
+            "plausible_answers": [
+              {
+                "text": "9.0",
+                "answer_start": 340
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What command to mount ?",
+            "id": "b00cae3924c2027905fc1a61011484bf",
+            "answers": [
+              {
+                "text": "fstab",
+                "answer_start": 78
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the new version ?",
+            "id": "e42d5b376d7cb3cafae76e74226a5c9e",
+            "answers": [
+              {
+                "text": "9.04",
+                "answer_start": 340
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why the other group has no permission ?",
+            "id": "c4727f98834b6c7308c62bf12fa1a868",
+            "plausible_answers": [
+              {
+                "text": "a pastebin of the fstab",
+                "answer_start": 94
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does nit-wit wask from JuJuBee_ ?",
+            "id": "18d8dc1181545c8c5b0e333deecd0c71",
+            "answers": [
+              {
+                "text": "a pastebin of the fstab that is probably",
+                "answer_start": 94
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's the newest version ?",
+            "id": "5493afeab7d810f30934af30fe79b6e1",
+            "answers": [
+              {
+                "text": "9.04",
+                "answer_start": 340
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What are subtracted ?",
+            "id": "9023d2bfc9bc68459d1a379583918dd9",
+            "answers": [
+              {
+                "text": "umask",
+                "answer_start": 196
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does JuJuBee_ use between ?",
+            "id": "19b3028f430e8b2fdc42e79ee3ea5994",
+            "answers": [
+              {
+                "text": "linux and windows",
+                "answer_start": 29
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is it treated as ?",
+            "id": "36263a34c230f3d8ce10279bfdcb7f6e",
+            "answers": [
+              {
+                "text": "a mount mask",
+                "answer_start": 172
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When are they in 9.04 ?",
+            "id": "d37c11bf12924f7362ff106fb2376925",
+            "plausible_answers": [
+              {
+                "text": "outdated by loads",
+                "answer_start": 313
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "what is the problem ?",
+            "id": "25dcefc606e82e28dc630b1c744d9305",
+            "answers": [
+              {
+                "text": "give us a pastebin of the fstab that is probably it eh.emoji",
+                "answer_start": 86
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is the reason ?",
+            "id": "5676f90f3083380fd86cfb6f130910e2",
+            "answers": [
+              {
+                "text": "umask are subtracted , so your other group has no permission",
+                "answer_start": 196
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what should I do ?",
+            "id": "283bdab961842fc2fc7da3b24649a171",
+            "answers": [
+              {
+                "text": "outdated by loads , it has 9.04 as the newest version",
+                "answer_start": 313
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does JuJuBee_ use between ?",
+            "id": "b76b560ae49daed2a53476a74805c7fa",
+            "answers": [
+              {
+                "text": "linux and windows",
+                "answer_start": 29
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is subtracted ?",
+            "id": "187179a7f9688ad128e13c0fa03ff31b",
+            "answers": [
+              {
+                "text": "umask",
+                "answer_start": 196
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what's not the newest version ?",
+            "id": "f9e0329a66a308ec2f3277bb192d8562",
+            "plausible_answers": [
+              {
+                "text": "fstab",
+                "answer_start": 78
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does JuJuBee_ use between\uff1f",
+            "id": "7cf50c0a4babd72ca2f6ff4578fd1ade",
+            "answers": [
+              {
+                "text": "linux and windows",
+                "answer_start": 29
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does nit-wit want to know ?",
+            "id": "031db26c775cfc26f02c72966432365a",
+            "answers": [
+              {
+                "text": "did you mount it with fstab",
+                "answer_start": 56
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does it not have as the newest version ?",
+            "id": "9dce4f4c01d8c84107065efc083a8645",
+            "plausible_answers": [
+              {
+                "text": "9.04",
+                "answer_start": 340
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What system does JuJuBee_ use ?",
+            "id": "4b833eddd498197cc460354cfd211c37",
+            "answers": [
+              {
+                "text": "linux and windows",
+                "answer_start": 29
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What nit-wit want to get ?",
+            "id": "7b85e39c3483e2fa8bf67a3fd17a1be6",
+            "answers": [
+              {
+                "text": "a pastebin of the fstab",
+                "answer_start": 94
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is the newest version as MrNthDegree said ?",
+            "id": "224a7503ed675a424a56c0d6fcaa563d",
+            "plausible_answers": [
+              {
+                "text": "linux",
+                "answer_start": 29
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What was subtracted in the previous version ?",
+            "id": "02935ddda3e6e8291745195f1bb48fcf",
+            "answers": [
+              {
+                "text": "umask",
+                "answer_start": 196
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Which version did ubuntu update to ?",
+            "id": "e16d6ace517589bea21c960b69928637",
+            "answers": [
+              {
+                "text": "9.04",
+                "answer_start": 340
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Which version did umask back in ?",
+            "id": "2a213a5fc5d6206550b4b3d2c5310027",
+            "answers": [
+              {
+                "text": "9.04",
+                "answer_start": 340
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "who says it's treated as a mount mask ?",
+            "id": "91c77c07f40bd13dd1031114589d6115",
+            "answers": [
+              {
+                "text": "ikonia",
+                "answer_start": 147
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what's the new version now ?",
+            "id": "416888dea01ed2098137589b677762c6",
+            "answers": [
+              {
+                "text": "it has 9.04 as the newest version",
+                "answer_start": 333
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is the original version ?",
+            "id": "5993c41f46e2a16b9ea809c790c39cab",
+            "plausible_answers": [
+              {
+                "text": "outdated by loads",
+                "answer_start": 313
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 0,
+            "type": "Explanation"
+          },
+          {
+            "y": 4,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 4,
+            "type": "Result"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "replace block with your dev node",
+            "speaker": "MohammadAG"
+          },
+          {
+            "text": "here is the output when i ran the comman",
+            "speaker": "blue_pearl"
+          },
+          {
+            "text": "URL here is the output",
+            "speaker": "blue_pearl"
+          },
+          {
+            "text": "i 'm assuming it 's not raid ?",
+            "speaker": "MohammadAG"
+          },
+          {
+            "text": "well first it did not mounted after i did not properly shutdown xp and booted in ubuntu",
+            "speaker": "blue_pearl"
+          },
+          {
+            "text": "i can try but how to run it ?",
+            "speaker": "blue_pearl"
+          },
+          {
+            "text": "i 'm not sure about xp , but vista and 7 had a recovery disc option",
+            "speaker": "MohammadAG"
+          },
+          {
+            "text": "ok. will reinstalling the grub2 help in any way ?",
+            "speaker": "blue_pearl"
+          }
+        ],
+        "context": "mohammadag: replace block with your dev node blue_pearl: here is the output when i ran the comman blue_pearl: url here is the output mohammadag: i 'm assuming it 's not raid ? blue_pearl: well first it did not mounted after i did not properly shutdown xp and booted in ubuntu blue_pearl: i can try but how to run it ? mohammadag: i 'm not sure about xp , but vista and 7 had a recovery disc option blue_pearl: ok. will reinstalling the grub2 help in any way ?",
+        "qas": [
+          {
+            "question": "What can replace  block ?",
+            "id": "28b289daf86eec63af05f7ae3802178c",
+            "answers": [
+              {
+                "text": "dev node",
+                "answer_start": 36
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did  vista and 7 have ?",
+            "id": "f79df3bfb889abfc2eed651ccf5f7e03",
+            "answers": [
+              {
+                "text": "a recovery disc option",
+                "answer_start": 375
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does MohammadAG replace the block with ?",
+            "id": "b696ff0cd1c0d32f42c48d4bd7675088",
+            "answers": [
+              {
+                "text": "dev node",
+                "answer_start": 36
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does blue_pearl want to try ?",
+            "id": "156c6b3555ec5537491a6c0ad7d160a0",
+            "answers": [
+              {
+                "text": "reinstalling the grub2",
+                "answer_start": 419
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What has a recovery disc option ?",
+            "id": "32ac7bf6a8435caefd0ceba2dae83e64",
+            "plausible_answers": [
+              {
+                "text": "xp",
+                "answer_start": 252
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What is the URL ?",
+            "id": "0f063e54c0b231ea729015c4a6c858c5",
+            "answers": [
+              {
+                "text": "output",
+                "answer_start": 69
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What vista and 7 had ?",
+            "id": "a3002bb437b63ee1a75823b1d5b4c6d6",
+            "answers": [
+              {
+                "text": "a recovery disc option",
+                "answer_start": 375
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Who ran the comman ?",
+            "id": "ccafd7225beb616da01bda52503d7731",
+            "answers": [
+              {
+                "text": "blue_pearl",
+                "answer_start": 45
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When is the output  according to blue_pearl saying ?",
+            "id": "e7b4f1159a108f39aeb417926490f5b6",
+            "answers": [
+              {
+                "text": "ran the comman",
+                "answer_start": 83
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the output ?",
+            "id": "57c56c62f1cb8d9c7e9c9004e6e4d1e4",
+            "answers": [
+              {
+                "text": "url",
+                "answer_start": 110
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What are vista and 7 have ?",
+            "id": "1cd4a9442b28a4065471e3ba9976ce94",
+            "answers": [
+              {
+                "text": "a recovery disc option",
+                "answer_start": 375
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the output here ?",
+            "id": "82487cdba412c32f098008b6d86dd837",
+            "answers": [
+              {
+                "text": "url",
+                "answer_start": 110
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should I replace the block with ?",
+            "id": "9422bfc94663c51c74eb453a01f7d7dd",
+            "answers": [
+              {
+                "text": "your dev node",
+                "answer_start": 31
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When will the output appear ?",
+            "id": "3a074ba23314ab6d0ab7260328576b51",
+            "answers": [
+              {
+                "text": "when i ran the comman",
+                "answer_start": 76
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does vista and 7 have ?",
+            "id": "71c8d3807ce171d379674a897dce9ccc",
+            "answers": [
+              {
+                "text": "a recovery disc option",
+                "answer_start": 375
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What are blue_pearl's errors ?",
+            "id": "9c834f17b83b7bf8098430e4a583acdd",
+            "answers": [
+              {
+                "text": "it did not mounted after i did not properly shutdown xp and booted in ubuntu",
+                "answer_start": 199
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does MohammadAG suggest blue_pearl do ?",
+            "id": "06b6990fac4f851f56b8026b32a72623",
+            "answers": [
+              {
+                "text": "replace block with your dev node",
+                "answer_start": 12
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Which one had a recovery disc option ?",
+            "id": "418113534eab1fe38dcd451d91904eb0",
+            "answers": [
+              {
+                "text": "vista and 7",
+                "answer_start": 359
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did it happen after not properly shutdown xp and booted in ubuntu",
+            "id": "a803f048bbd198d7ab717c632a2451d8",
+            "answers": [
+              {
+                "text": "it did not mounted",
+                "answer_start": 199
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What MohammadAG asks to replace block ?",
+            "id": "1fa79a0420eedf7e58ee76852e9920f9",
+            "answers": [
+              {
+                "text": "dev node",
+                "answer_start": 36
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the output as blue_pearl said ?",
+            "id": "05d37ce08d8f72088a6d57561f61c2ae",
+            "answers": [
+              {
+                "text": "url",
+                "answer_start": 110
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What had a recovery disc option ?",
+            "id": "d8a0dad45214c4963d99e74fb63ede55",
+            "answers": [
+              {
+                "text": "vista and 7",
+                "answer_start": 359
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the output ?",
+            "id": "dab8f4765f106d218e6a15d4da8b46cd",
+            "answers": [
+              {
+                "text": "url",
+                "answer_start": 110
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What has a recovery disc option ?",
+            "id": "b19153f78a795a46274d9c1e443ab2f4",
+            "answers": [
+              {
+                "text": "vista and 7",
+                "answer_start": 359
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is MohammadAG not sure about ?",
+            "id": "6cca97894d4291698167395e00b9a040",
+            "answers": [
+              {
+                "text": "xp",
+                "answer_start": 252
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "where is the output ?",
+            "id": "e5f72fd84cd9b7f130db323ba6c57d42",
+            "answers": [
+              {
+                "text": "url",
+                "answer_start": 110
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is used to replace the block ?",
+            "id": "d566ff6c0f7fc86d961a92557f9ec73c",
+            "answers": [
+              {
+                "text": "dev node",
+                "answer_start": 36
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what option does vista has but xp doesn't ?",
+            "id": "458c89925b0e6ff8824e962e01d3581e",
+            "plausible_answers": [
+              {
+                "text": "recovery disc option",
+                "answer_start": 377
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Narration"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Continuation"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Clarification_question"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "i guess there is not enough gamers here to share my woos",
+            "speaker": "sugi"
+          },
+          {
+            "text": "plenty of gamers , just not witcher fans ?",
+            "speaker": "Sa[i]nT"
+          },
+          {
+            "text": "go to ubuntu-offtopic or ubuntu-cafe or ubuntuforums , plenty of offtopic discussion channels",
+            "speaker": "vocx"
+          },
+          {
+            "text": "i am not a fan yet . i have n't tried it EMOJI",
+            "speaker": "sugi"
+          },
+          {
+            "text": "i 've heard more bad than good . but ya never know .",
+            "speaker": "Sa[i]nT"
+          },
+          {
+            "text": "i just keep hearing about it",
+            "speaker": "sugi"
+          },
+          {
+            "text": "wan na try something interesting , try spore",
+            "speaker": "Sa[i]nT"
+          },
+          {
+            "text": "already installed it and beaten it EMOJI",
+            "speaker": "sugi"
+          }
+        ],
+        "context": "sugi: i guess there is not enough gamers here to share my woos sa[i]nt: plenty of gamers , just not witcher fans ? vocx: go to ubuntu-offtopic or ubuntu-cafe or ubuntuforums , plenty of offtopic discussion channels sugi: i am not a fan yet . i have n't tried it emoji sa[i]nt: i 've heard more bad than good . but ya never know . sugi: i just keep hearing about it sa[i]nt: wan na try something interesting , try spore sugi: already installed it and beaten it emoji",
+        "qas": [
+          {
+            "question": "What is sugi going to do ?",
+            "id": "6c181e886ba2bad3f64b69634c4f0d8e",
+            "answers": [
+              {
+                "text": "share my woos",
+                "answer_start": 49
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does Sa[i]nT tell sugi to try ?",
+            "id": "f72b261b75c5b060ca22739b44022a0a",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What Sa[i]nT want to try ?",
+            "id": "bf37513674dcd8d71c2578165e4f0d0f",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What kind of thing does Sa[i]nT heard more ?",
+            "id": "5dba638c32c3206a7aa587fc3ab18b82",
+            "answers": [
+              {
+                "text": "bad",
+                "answer_start": 294
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why sugi is not a fan ?",
+            "id": "b23c344c5e7b3092ccfc61a82f955718",
+            "answers": [
+              {
+                "text": "have n't tried i",
+                "answer_start": 244
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's the game they talk about ?",
+            "id": "4aaa0e40c198ac97c12be2d79cbcb303",
+            "answers": [
+              {
+                "text": "witcher",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why sugi does not play witchers ?",
+            "id": "89c422add22698e5e61743e000a5d23b",
+            "answers": [
+              {
+                "text": "just keep hearing about it",
+                "answer_start": 338
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What sugi do after talking with Sa[i]T ?",
+            "id": "ee9222064b942006bc7d8b4ab0ff07a0",
+            "answers": [
+              {
+                "text": "installed it and beaten it",
+                "answer_start": 433
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What interesting thing does Sa[i]nT try ?",
+            "id": "780a714298ec06e7770bc537605d76df",
+            "answers": [
+              {
+                "text": "try spore",
+                "answer_start": 409
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What are a lot of gamers just not ?",
+            "id": "56b7c228102b3e26ce06beaf7a93c271",
+            "answers": [
+              {
+                "text": "witcher fans",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does sugi need enough gamers to do ?",
+            "id": "d213b7431f7a2ae870b2bd0a32cd2edc",
+            "answers": [
+              {
+                "text": "share my woos",
+                "answer_start": 49
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how many gamers can share my woos ?",
+            "id": "9777a9ac101ffccf9fc3b3188b32cc37",
+            "answers": [
+              {
+                "text": "not enough gamers",
+                "answer_start": 23
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how mang gamers here ?",
+            "id": "af97e71cc8ea1cfcd913a81141cf64d6",
+            "answers": [
+              {
+                "text": "plenty of gamers",
+                "answer_start": 72
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does Sa[i]nT tell sugi to try ?",
+            "id": "2c52cb50c22036acb2be5e3b5da770f5",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does Sa[i]nt ask sugi try ?",
+            "id": "0cf5bc20a1d37681e0241da4527bbfc3",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does sugi have installed ?",
+            "id": "10a14b9afc8f0ae3bfa93b0e4a49586e",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does sugi want to share ?",
+            "id": "4e83e44fb00e527bea18ff69a986d963",
+            "answers": [
+              {
+                "text": "woos",
+                "answer_start": 58
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What Sa[i]nT suggest to try ?",
+            "id": "fb49dd128a03ed6f19709cf31e9f5e6d",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How spore make sugi feel ?",
+            "id": "62ef30a6548e08397474ad51a52feabf",
+            "answers": [
+              {
+                "text": "already installed it and beaten it",
+                "answer_start": 425
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What game did Sa[i]nT think sugi likes ?",
+            "id": "33b1a7ee36a2bc42c288e8c986afe766",
+            "answers": [
+              {
+                "text": "witcher",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What game did Sa[i]nT suggest ?",
+            "id": "edd30fc993006f05e46518b39de78eaf",
+            "answers": [
+              {
+                "text": "spore",
+                "answer_start": 413
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Where are there many offtopic discussion channels ?",
+            "id": "e420858242ebefa3c9925f5b017e100b",
+            "answers": [
+              {
+                "text": "ubuntu-offtopic or ubuntu-cafe or ubuntuforums",
+                "answer_start": 127
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is sugi going to do ?",
+            "id": "b9d75fae90f68af3b22dc65cb391a280",
+            "answers": [
+              {
+                "text": "share my woos",
+                "answer_start": 49
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what's sugi thinking about robes ?",
+            "id": "a67e2caf4c137cc0e9be5510d63ad8e3",
+            "answers": [
+              {
+                "text": "already installed it and beaten it",
+                "answer_start": 425
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "why sugis is angry ?",
+            "id": "197c07e0de14981e5abf8c110582fcbc",
+            "plausible_answers": [
+              {
+                "text": "hearing about it",
+                "answer_start": 348
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Explanation"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "QAP"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Comment"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Explanation"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Result"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "to me it looks like its trying to read the cdrom for universe",
+            "speaker": "gnomefreak"
+          },
+          {
+            "text": "ok synaptic is open ! and i opened the repositories",
+            "speaker": "lightbright"
+          },
+          {
+            "text": "what is the first thing you see",
+            "speaker": "gnomefreak"
+          },
+          {
+            "text": "is there a check near it ?",
+            "speaker": "gnomefreak"
+          },
+          {
+            "text": "since when are you getting these errors ?",
+            "speaker": "theine"
+          },
+          {
+            "text": "a check ? as in tick ?",
+            "speaker": "lightbright"
+          },
+          {
+            "text": "after 5months using ubuntu my first day ever getting these errors",
+            "speaker": "lightbright"
+          },
+          {
+            "text": "there is no tick on any of the 12 that appear",
+            "speaker": "lightbright"
+          },
+          {
+            "text": "i dont see any boxes !",
+            "speaker": "lightbright"
+          },
+          {
+            "text": "hmm , ok , try `` apt-get update '' again",
+            "speaker": "theine"
+          },
+          {
+            "text": "than click show all or something like that",
+            "speaker": "gnomefreak"
+          }
+        ],
+        "context": "gnomefreak: to me it looks like its trying to read the cdrom for universe lightbright: ok synaptic is open ! and i opened the repositories gnomefreak: what is the first thing you see gnomefreak: is there a check near it ? theine: since when are you getting these errors ? lightbright: a check ? as in tick ? lightbright: after 5months using ubuntu my first day ever getting these errors lightbright: there is no tick on any of the 12 that appear lightbright: i dont see any boxes ! theine: hmm , ok , try `` apt-get update '' again gnomefreak: than click show all or something like that",
+        "qas": [
+          {
+            "question": "Who opened the repositories\uff1f",
+            "id": "4357dfe8ddb477912ee4d8d83c36c2c8",
+            "answers": [
+              {
+                "text": "lightbright",
+                "answer_start": 74
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When did lightbright get these errors ?",
+            "id": "e6c618d83fd00fecf3f3ef3d8d934701",
+            "answers": [
+              {
+                "text": "after 5months using ubuntu",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does lightbright see ?",
+            "id": "51da4824ffcb4fb2508ea02d51bc0060",
+            "plausible_answers": [
+              {
+                "text": "boxes",
+                "answer_start": 474
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "When does lightbright have these errors ?",
+            "id": "e7b0862c02c7fc310af3098fb9460813",
+            "answers": [
+              {
+                "text": "after 5months using ubuntu",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What command that theine gives lightbright ?",
+            "id": "ddf635e7957b24c47980c1e3b640952b",
+            "answers": [
+              {
+                "text": "apt-get update",
+                "answer_start": 508
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does lightbright see when he opens the repositories ?",
+            "id": "8aed64e76ec901ffb38d6f1b6b322207",
+            "plausible_answers": [
+              {
+                "text": "as in tick",
+                "answer_start": 295
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What did lightbright open ?",
+            "id": "0824209e01f6fa9debaaea9bcc582ee4",
+            "answers": [
+              {
+                "text": "the repositories",
+                "answer_start": 122
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How long has lightbright used ubuntu ?",
+            "id": "d6c37bab4aadd464c7d20d22b23e6ab9",
+            "answers": [
+              {
+                "text": "5months",
+                "answer_start": 327
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why does lightbright not see any boxes ?",
+            "id": "dcd09a31b7539839d28d8611234268ce",
+            "plausible_answers": [
+              {
+                "text": "dont see any boxes",
+                "answer_start": 461
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does it look like ?",
+            "id": "806246dbb9b89195e5a73325dff0851d",
+            "answers": [
+              {
+                "text": "its trying to read the cdrom for universe",
+                "answer_start": 32
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is open ?",
+            "id": "a278e3d9b08c3663e54d3cac01a5b267",
+            "answers": [
+              {
+                "text": "synaptic",
+                "answer_start": 90
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When does he get these errors ?",
+            "id": "8fdb9e552736d591c8fa17eb13b884b1",
+            "answers": [
+              {
+                "text": "after 5months using ubuntu",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is it ?",
+            "id": "fcea38388e68f2692c150f42c7fc4ce8",
+            "answers": [
+              {
+                "text": "to me it looks like its trying to read the cdrom for universe",
+                "answer_start": 12
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is the first thing you see ?",
+            "id": "eee57e403fdc5a39bd70ff07ae0d6fed",
+            "answers": [
+              {
+                "text": "is there a check near it",
+                "answer_start": 195
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "when are you getting these errors ?",
+            "id": "498237468ecda1a89205f0575c65ebe3",
+            "plausible_answers": [
+              {
+                "text": "after 5months using ubuntu my first day ever getting these errors",
+                "answer_start": 321
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "what did lightbright open ?",
+            "id": "5bfa6f16e984318799dde9ea307070c6",
+            "answers": [
+              {
+                "text": "repositories",
+                "answer_start": 126
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does it look like ?",
+            "id": "57393f1975aecf9494c5a2e2b19ff68b",
+            "answers": [
+              {
+                "text": "its trying to read the cdrom for universe",
+                "answer_start": 32
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did lightbright open ?",
+            "id": "0bd11a8eb339cdb518c8978c5ca58cb9",
+            "answers": [
+              {
+                "text": "the repositories",
+                "answer_start": 122
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does theine suggest lightbright try again ?",
+            "id": "05a5c588e397f271a013216f1a468e1f",
+            "answers": [
+              {
+                "text": "`` apt-get update ''",
+                "answer_start": 505
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What it looks like as gnomefreak said ?",
+            "id": "619fc730efb37baa53d4f621bb91fc36",
+            "answers": [
+              {
+                "text": "read the cdrom for universe",
+                "answer_start": 46
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's lightbright opened ?",
+            "id": "29ad325d8e81b658ebd50ce90d1346b9",
+            "answers": [
+              {
+                "text": "the repositories",
+                "answer_start": 122
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Hong long does lightbright use ubuntu ?",
+            "id": "69f1506d3d14fa2ee9fde1acfa66b044",
+            "answers": [
+              {
+                "text": "5months",
+                "answer_start": 327
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did lightbright open after synaptic opened ?",
+            "id": "e7792d3698b5eac83a29b960a1a76c12",
+            "answers": [
+              {
+                "text": "repositories",
+                "answer_start": 126
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How long is it lightbright got these errors since using ubuntu first time ?",
+            "id": "c0d9255aa79151388bf5ca1447f0f0df",
+            "answers": [
+              {
+                "text": "5months",
+                "answer_start": 327
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will lightbright try to type next ?",
+            "id": "18ff382cf750ca59b28a31fd093b30a0",
+            "plausible_answers": [
+              {
+                "text": "apt-get update",
+                "answer_start": 508
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "what is lightbright to do ?",
+            "id": "4087df412a769d667be265a9046b09d4",
+            "answers": [
+              {
+                "text": "opened the repositories",
+                "answer_start": 115
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "when did the error begin ?",
+            "id": "60f7e0ff512f98fdefbb2389034c0e8f",
+            "answers": [
+              {
+                "text": "after 5months using ubuntu my first day",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 6,
+            "x": 4,
+            "type": "QAP"
+          },
+          {
+            "y": 7,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 8,
+            "x": 3,
+            "type": "QAP"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Comment"
+          },
+          {
+            "y": 10,
+            "x": 8,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "adebo : what are you entering for the partition ?",
+            "speaker": "warbler"
+          },
+          {
+            "text": "the setup does n't work , it gave me no such partition",
+            "speaker": "abedo"
+          },
+          {
+            "text": "what were you entering for the partition ?",
+            "speaker": "warbler"
+          },
+          {
+            "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+            "speaker": "abedo"
+          },
+          {
+            "text": "root ( hd0.5 ) - setup ( hd0 )",
+            "speaker": "warbler"
+          },
+          {
+            "text": "i tried it dude it 's same",
+            "speaker": "abedo"
+          },
+          {
+            "text": "if it finds grub it will install grub - one step at a time - ok ?",
+            "speaker": "warbler"
+          },
+          {
+            "text": "from live cd - at terminal - type sudo grub - ok ?",
+            "speaker": "warbler"
+          },
+          {
+            "text": "i 'm testing again , hope EMOJI",
+            "speaker": "abedo"
+          },
+          {
+            "text": "with result from find type - root ( hd0,5 ) - if that is what it finds",
+            "speaker": "warbler"
+          },
+          {
+            "text": "then type - root ( hd0 ) - hit enter - should be output - ok ?",
+            "speaker": "warbler"
+          }
+        ],
+        "context": "warbler: adebo : what are you entering for the partition ? abedo: the setup does n't work , it gave me no such partition warbler: what were you entering for the partition ? abedo: root ( hd0,5 ) - setup ( hd0,5 ) warbler: root ( hd0.5 ) - setup ( hd0 ) abedo: i tried it dude it 's same warbler: if it finds grub it will install grub - one step at a time - ok ? warbler: from live cd - at terminal - type sudo grub - ok ? abedo: i 'm testing again , hope emoji warbler: with result from find type - root ( hd0,5 ) - if that is what it finds warbler: then type - root ( hd0 ) - hit enter - should be output - ok ?",
+        "qas": [
+          {
+            "question": "What was warbler entering for the partition ?",
+            "id": "ed753c61bb10a689dfecaccbe8a13a27",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Where to type sudo grub ?",
+            "id": "09f0a2b8b8a797586463d236716e5f6a",
+            "answers": [
+              {
+                "text": "from live cd - at terminal",
+                "answer_start": 371
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did warbler do again ?",
+            "id": "8276b46c538cbf4cd89ae65fc2517e67",
+            "plausible_answers": [
+              {
+                "text": "testing",
+                "answer_start": 434
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does abedo want to enter for the partition ?",
+            "id": "0d16c82b86db8d6db8a02b8a2dcaf134",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What command does warbler give ?",
+            "id": "087b1d44a756a2fc49545bd4014b7579",
+            "answers": [
+              {
+                "text": "sudo grub",
+                "answer_start": 405
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the problem of abedo ?",
+            "id": "16081079800cdb4971a64fd5f4f9d418",
+            "plausible_answers": [
+              {
+                "text": "entering for the partition",
+                "answer_start": 30
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What gave abedo no such partition ?",
+            "id": "9eac65da2f03abf47f949236450d968b",
+            "answers": [
+              {
+                "text": "the setup does n't work",
+                "answer_start": 66
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is abedo doing ?",
+            "id": "4fe817f81bd6c9a8a99cc91b61b218cb",
+            "answers": [
+              {
+                "text": "testing again",
+                "answer_start": 434
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What if it finds grub it will install grub ?",
+            "id": "cb6d55b69b16773cf586a833fc944244",
+            "answers": [
+              {
+                "text": "one step at a time",
+                "answer_start": 336
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why does the installer not work ?",
+            "id": "37bc4b3015ad20407da23dad1f539c73",
+            "answers": [
+              {
+                "text": "it gave me no such partition",
+                "answer_start": 92
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will it do after finding grub ?",
+            "id": "2ec08ebb6c270e5b2f8897f8b81ca426",
+            "answers": [
+              {
+                "text": "install grub - one step at a time",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What do you do after typing root ?",
+            "id": "a0f025580bbe265581da82df88548b63",
+            "answers": [
+              {
+                "text": "- hit enter - should be output",
+                "answer_start": 575
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what were you entering for the partition ?",
+            "id": "21327754aa0b8dd9ec516aba8f16f969",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What doesn't work ?",
+            "id": "454f92d3e3657f821a7011f740275236",
+            "answers": [
+              {
+                "text": "the setup",
+                "answer_start": 66
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is one step at a time ?",
+            "id": "8f6650a5a55a409e4213d7ae959a996f",
+            "answers": [
+              {
+                "text": "if it finds grub it will install grub",
+                "answer_start": 296
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is what it finds ?",
+            "id": "3cbf32b839b015408417cb36dead45da",
+            "answers": [
+              {
+                "text": "esult from find type - root ( hd0,5 )",
+                "answer_start": 476
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why are you entering ?",
+            "id": "f7dc094e596d846eac2e26a8840e477d",
+            "answers": [
+              {
+                "text": "for the partition",
+                "answer_start": 39
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will it do after finding grub ?",
+            "id": "022fa6a4f1067bb077c6582997d8d518",
+            "answers": [
+              {
+                "text": "install grub - one step at a time",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did abedo enter for the partition ?",
+            "id": "89e0a76fd8a6c679be3f0ca348a46d68",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does abedo do after receiving warbler's suggestion ?",
+            "id": "e78b1da4a7658ce7c979f16e5c7002d2",
+            "answers": [
+              {
+                "text": "testing again",
+                "answer_start": 434
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What was adebo entering for the partition ?",
+            "id": "d04f865b8c72430525dd2b36189dfb95",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How to get output ?",
+            "id": "ed7addc36711e76590938e7ac1b539ba",
+            "answers": [
+              {
+                "text": "type - root ( hd0 ) - hit enter",
+                "answer_start": 555
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should adebo type first ?",
+            "id": "6786c72d4da9e830dce0eb8c93a7516b",
+            "answers": [
+              {
+                "text": "sudo grub",
+                "answer_start": 405
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does abedo entering for the partition ?",
+            "id": "905492de706fcae28e30bd93f036da64",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What warbler asked ?",
+            "id": "0b988184ab002c93d2963705d2b1cb8b",
+            "answers": [
+              {
+                "text": "root ( hd0.5 ) - setup ( hd0 )",
+                "answer_start": 222
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What warbler asked at last ?",
+            "id": "0c2a532bd4dd6bf1dd498e1515b692c7",
+            "answers": [
+              {
+                "text": "type - root ( hd0 ) - hit enter",
+                "answer_start": 555
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does not work according to abedo ?",
+            "id": "92bbd34e990b720b7d2a83867fed2e69",
+            "answers": [
+              {
+                "text": "setup",
+                "answer_start": 70
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will it do if it finds grub ?",
+            "id": "4b8e4649ff6167035ba3709f84274dae",
+            "answers": [
+              {
+                "text": "install grub",
+                "answer_start": 321
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what was abedo entering for the partition ?",
+            "id": "b9a5b3d516b5786be516550a21cc6c22",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "who will test again ?",
+            "id": "1b965ef2c63378e3b381be48cf4fe7bc",
+            "answers": [
+              {
+                "text": "abedo",
+                "answer_start": 59
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what did abedo enter for partition for the first time ?",
+            "id": "1db568cd765b60763d1adaaf37fecacd",
+            "answers": [
+              {
+                "text": "root ( hd0,5 ) - setup ( hd0,5 )",
+                "answer_start": 180
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "QAP"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Parallel"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Result"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 7,
+            "x": 5,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 8,
+            "x": 7,
+            "type": "QAP"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Conditional"
+          },
+          {
+            "y": 10,
+            "x": 8,
+            "type": "Clarification_question"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "there is any way to disable tapping from my touchpad it 's really annoying",
+            "speaker": "niuq"
+          },
+          {
+            "text": "you could disable it alltogether ?",
+            "speaker": "DjViper"
+          },
+          {
+            "text": "that line is already there",
+            "speaker": "foso"
+          },
+          {
+            "text": "okay , do the next step then",
+            "speaker": "DjViper"
+          },
+          {
+            "text": "yes i do , i dont even have a mouse",
+            "speaker": "niuq"
+          },
+          {
+            "text": "when i control x and then say yes then enter it says error writing permission dnied",
+            "speaker": "foso"
+          },
+          {
+            "text": "you need to do it as root , read up",
+            "speaker": "DjViper"
+          }
+        ],
+        "context": "niuq: there is any way to disable tapping from my touchpad it 's really annoying djviper: you could disable it alltogether ? foso: that line is already there djviper: okay , do the next step then niuq: yes i do , i dont even have a mouse foso: when i control x and then say yes then enter it says error writing permission dnied djviper: you need to do it as root , read up",
+        "qas": [
+          {
+            "question": "What does niuq want to do ?",
+            "id": "6f66435a2f5a3f8fae4762218988d1dd",
+            "answers": [
+              {
+                "text": "disable it alltogether",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does it say after foso enter\uff1f",
+            "id": "fdaaa6a4d6f836ccc65f5352a60285d5",
+            "answers": [
+              {
+                "text": "error writing",
+                "answer_start": 297
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did foso have ?",
+            "id": "00c1934c8374e87050732029e73791e4",
+            "answers": [
+              {
+                "text": "a mouse",
+                "answer_start": 230
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why does niug disable tapping from touchpad ?",
+            "id": "14be4c9d48151fd8c89a3a2c9cf07789",
+            "answers": [
+              {
+                "text": "it 's really annoying",
+                "answer_start": 59
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What error does foso have ?",
+            "id": "7b2aed9cd880f72db99343dd9680cd21",
+            "answers": [
+              {
+                "text": "writing permission dnied",
+                "answer_start": 303
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How could foso solve the problem ?",
+            "id": "723ef966a262499c1a8e5dd9dd086d2d",
+            "answers": [
+              {
+                "text": "do it as root",
+                "answer_start": 349
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Who doesn't have a mouse ?",
+            "id": "23d502d3131df26ec76de4e216abb16f",
+            "answers": [
+              {
+                "text": "niuq",
+                "answer_start": 0
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What can niuq do ?",
+            "id": "85ce9a1ff61617a7f09f241390d8fef9",
+            "answers": [
+              {
+                "text": "disable it alltogether",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When that line is there ?",
+            "id": "6cca5ff1f40a338334175dc6ca7e6712",
+            "plausible_answers": [
+              {
+                "text": "that line is already there",
+                "answer_start": 131
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "Why does niuq want to disable tapping from his touchpad ?",
+            "id": "38a1d8fdd55845c6d22db9d92a65d1e2",
+            "answers": [
+              {
+                "text": "it 's really annoying",
+                "answer_start": 59
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does it say when he controls x and then say yes ?",
+            "id": "2a00167d53f319ca03b0dc80ab37f4ba",
+            "answers": [
+              {
+                "text": "and then say yes",
+                "answer_start": 261
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What do you need to do it as ?",
+            "id": "15a9418041810ef5038a0fcfda06f620",
+            "answers": [
+              {
+                "text": "root",
+                "answer_start": 358
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is your problem ?",
+            "id": "313ce02fc60219edda9fee589889b008",
+            "answers": [
+              {
+                "text": "there is any way to disable tapping from my touchpad it 's really annoying",
+                "answer_start": 6
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what should I do ?",
+            "id": "c1b3ffb491ac56fc474a6be727d2fc17",
+            "answers": [
+              {
+                "text": "that line is already there",
+                "answer_start": 131
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what can I do ?",
+            "id": "50181fefd9ada4ac6a4ca435578c798d",
+            "plausible_answers": [
+              {
+                "text": "you need to do it as root , read up",
+                "answer_start": 337
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "what is already there ?",
+            "id": "8db7576a3f0fc60c5647233eb8f12f7e",
+            "answers": [
+              {
+                "text": "that line",
+                "answer_start": 131
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what doesn't niuq have ?",
+            "id": "565c77a30123b4f17284f89091780b2f",
+            "answers": [
+              {
+                "text": "a mouse",
+                "answer_start": 230
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does not it say when foso controls x ?",
+            "id": "d078c642258474423756160e46317282",
+            "plausible_answers": [
+              {
+                "text": "do it as root",
+                "answer_start": 349
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "Why does niuq want to disable tapping from his touchpad ?",
+            "id": "a87dfce1a2ac57c05890e4130262504a",
+            "answers": [
+              {
+                "text": "it 's really annoying",
+                "answer_start": 59
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Did niuq do the next step ?",
+            "id": "e49d165b91894835fd254dfc28d087a9",
+            "answers": [
+              {
+                "text": "yes",
+                "answer_start": 202
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What permission should foso get to do it ?",
+            "id": "dbd528bc7efe746c6355135aba50d852",
+            "answers": [
+              {
+                "text": "root",
+                "answer_start": 358
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What makes niuq unhappy ?",
+            "id": "6e109bab90a23384075a19e6300d3708",
+            "answers": [
+              {
+                "text": "tapping from my touchpad",
+                "answer_start": 34
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What niuq don't have ?",
+            "id": "feb9c5cf8595f392777a5fee07222c21",
+            "answers": [
+              {
+                "text": "a mouse",
+                "answer_start": 230
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What foso needed as DjViper said ?",
+            "id": "2e192bc85688ed37848fdc7b24752ee7",
+            "answers": [
+              {
+                "text": "do it as root",
+                "answer_start": 349
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How to disable tapping from the touchpad ?",
+            "id": "290dd515a0155cc4be67813e75f106ed",
+            "answers": [
+              {
+                "text": "disable it alltogether",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What happened when foso controlled x and then said yes then entered ?",
+            "id": "6cadac5b6ffe0535b520213bd57e75a7",
+            "answers": [
+              {
+                "text": "it says error writing permission dnied",
+                "answer_start": 289
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How does foso do to make it work ?",
+            "id": "8a0e46cb5974a755e20582053685b01c",
+            "answers": [
+              {
+                "text": "do it as root",
+                "answer_start": 349
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "which one has a problem ?",
+            "id": "d0b12f55ca9782ab7c85a7a1c6c6f646",
+            "answers": [
+              {
+                "text": "niuq",
+                "answer_start": 0
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what's wrong with niuq ?",
+            "id": "b7fed46c39c5b1230b0dde6552d5cbec",
+            "answers": [
+              {
+                "text": "disable tapping from my touchpad",
+                "answer_start": 26
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what advice does djviper give when the line was already there ?",
+            "id": "8b6bebe11071c075e4571c867698f883",
+            "answers": [
+              {
+                "text": "do the next step",
+                "answer_start": 174
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "QAP"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Acknowledgement"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Result"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "how do i find the address of a usb device ?",
+            "speaker": "nbx909"
+          },
+          {
+            "text": "what sort of device ?",
+            "speaker": "Likwidoxigen"
+          },
+          {
+            "text": "ca n't i just copy over the os and leave the data files untouched ?",
+            "speaker": "babo"
+          },
+          {
+            "text": "only if you do an upgrade",
+            "speaker": "nbx909"
+          },
+          {
+            "text": "how do i do an upgrade then ?",
+            "speaker": "babo"
+          },
+          {
+            "text": "should i just restart x after installing",
+            "speaker": "Nuked"
+          },
+          {
+            "text": "i 'd do a full restart so that it re-loads the modules",
+            "speaker": "Likwidoxigen"
+          }
+        ],
+        "context": "nbx909: how do i find the address of a usb device ? likwidoxigen: what sort of device ? babo: ca n't i just copy over the os and leave the data files untouched ? nbx909: only if you do an upgrade babo: how do i do an upgrade then ? nuked: should i just restart x after installing likwidoxigen: i 'd do a full restart so that it re-loads the modules",
+        "qas": [
+          {
+            "question": "What does nbx909 want to do ?",
+            "id": "3d6f819f489999beedb74022ff030f33",
+            "answers": [
+              {
+                "text": "find the address of a usb device",
+                "answer_start": 17
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does nbx909 suggest ?",
+            "id": "a6ed15259677d528685815a4ee17ab40",
+            "answers": [
+              {
+                "text": "do an upgrade",
+                "answer_start": 182
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How to restart the network ?",
+            "id": "7effbf7892ba04e00cfa04597469f5d8",
+            "plausible_answers": [
+              {
+                "text": "installing",
+                "answer_start": 269
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does nbx909 want to know ?",
+            "id": "7abf1d06b3ecbead0641f958a9c7f943",
+            "answers": [
+              {
+                "text": "find the address of a usb device",
+                "answer_start": 17
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How does Likwidoxigen suggest to do an upgrade ?",
+            "id": "5a0dfd9f8ccbf1afee7ff08636cf365b",
+            "answers": [
+              {
+                "text": "do a full restart",
+                "answer_start": 299
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why does Likwidoxigen do a full restart ?",
+            "id": "a275bab13fc60cd8dbc9497f5f604df9",
+            "answers": [
+              {
+                "text": "it re-loads the modules",
+                "answer_start": 325
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does nbx909 want to do ?",
+            "id": "faa2fc64ae3983f16ddd93271ae1304a",
+            "answers": [
+              {
+                "text": "find the address of a usb device",
+                "answer_start": 17
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should be done before  copy over the os and leave the data files untouched ?",
+            "id": "4a0869019eb6670e12a18a575c7d84af",
+            "answers": [
+              {
+                "text": "do an upgrade",
+                "answer_start": 182
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should be done after installing ?",
+            "id": "70b014ae31267800baa75e61bb46925d",
+            "answers": [
+              {
+                "text": "do a full restart",
+                "answer_start": 299
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the answer to nbx909 for Likwidoxigen ?",
+            "id": "59fde767b74f573b1d2fa040de7a5b5d",
+            "answers": [
+              {
+                "text": "only if you do an upgrade",
+                "answer_start": 170
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the problem with babo ?",
+            "id": "946604b3d302dbea5cb41879f9486d39",
+            "answers": [
+              {
+                "text": "how do i do an upgrade then",
+                "answer_start": 202
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why does Likwidoxigen want to restart completely ?",
+            "id": "4e24a6ebadf7bf33255ed6a23360d2e8",
+            "answers": [
+              {
+                "text": "re-loads the modules",
+                "answer_start": 328
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should I find ?",
+            "id": "c5ed2ed990f308d1336918f438970684",
+            "answers": [
+              {
+                "text": "the address of a usb device",
+                "answer_start": 22
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "can't I just copy over the os and leave the data files untouched ?",
+            "id": "cfb46031be6bddbb6c899c7a1651df1f",
+            "answers": [
+              {
+                "text": "only if you do an upgrade",
+                "answer_start": 170
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should I do after installing ?",
+            "id": "e3883cd140f6615ccd852a015d62ac4a",
+            "answers": [
+              {
+                "text": "just restart x",
+                "answer_start": 248
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What can I do to help re-load the modules ?",
+            "id": "385bbfd1d546ad612445ff51afa42029",
+            "answers": [
+              {
+                "text": "do a full restart",
+                "answer_start": 299
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the wrong way to find the address of a usb device ?",
+            "id": "8bfccd73f9457be505818fbc53eb6cca",
+            "answers": [
+              {
+                "text": "just copy over the os and leave the data files untouched",
+                "answer_start": 103
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "When can I just copy over the os and leave the data files untouched ?",
+            "id": "95ffffbf422ea57568705dcc949f957f",
+            "answers": [
+              {
+                "text": "only if you do an upgrade",
+                "answer_start": 170
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is nbx909's problem ?",
+            "id": "60af27a47224bd02a21b3c4b4b07e40f",
+            "answers": [
+              {
+                "text": "how do i find the address of a usb device",
+                "answer_start": 8
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How can babo just copy over the os and leave the data files untouched ?",
+            "id": "b370fed583d81b0ca7a1e94da143af71",
+            "answers": [
+              {
+                "text": "do an upgrade",
+                "answer_start": 182
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should Nuked do after installing x ?",
+            "id": "9e7703a9658108c2e882639f3fe00423",
+            "answers": [
+              {
+                "text": "a full restart",
+                "answer_start": 302
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does nbx909 have a problem with ?",
+            "id": "e5d562ccced53997703626e840ab7129",
+            "answers": [
+              {
+                "text": "find the address of a usb device",
+                "answer_start": 17
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what sort of device nbx909 asked ?",
+            "id": "e1d0ac89cb25b0a72cd20aff99eb7f98",
+            "answers": [
+              {
+                "text": "usb device",
+                "answer_start": 39
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How can babo just copy over the os and leave the data files untouched ?",
+            "id": "76350a63971192fb89f9f20ba0b604a7",
+            "answers": [
+              {
+                "text": "do an upgrade",
+                "answer_start": 182
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How to do an upgrade ?",
+            "id": "ddd8d50242a560ec17f0922f56134ea5",
+            "answers": [
+              {
+                "text": "restart x after installing",
+                "answer_start": 253
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does nbx909 want to find ?",
+            "id": "61cdecf6294be5280f69d67b4aa05f68",
+            "answers": [
+              {
+                "text": "the address of a usb device",
+                "answer_start": 22
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will Likwidoxigen do ?",
+            "id": "e6dd93bd615fe686f61fde4afe551246",
+            "answers": [
+              {
+                "text": "do a full restart",
+                "answer_start": 299
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why Likwidoxigen do a full restart ?",
+            "id": "c4ffe28e0656041838207c9a9c5caa5c",
+            "answers": [
+              {
+                "text": "it re-loads the modules",
+                "answer_start": 325
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "when does babo copy over os and leave data files untouched ?",
+            "id": "7947973b05f9c424774bf206e42ec97a",
+            "answers": [
+              {
+                "text": "only if you do an upgrade",
+                "answer_start": 170
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "who asks for the address of a usb device ?",
+            "id": "bcab64259218191f2263e8be3a6d01cf",
+            "answers": [
+              {
+                "text": "nbx909",
+                "answer_start": 0
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what should Likwidoxigen do to reloads modules ?",
+            "id": "ae19e5141245feefc24811b0d306e934",
+            "answers": [
+              {
+                "text": "restart",
+                "answer_start": 253
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "QAP"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 1,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "QAP"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "geforce4 mx 440 with agp8x ( gpu 0",
+            "speaker": "Cmclean"
+          },
+          {
+            "text": "you wo n't see any changes ( obviously ) until you restart",
+            "speaker": "deagle"
+          },
+          {
+            "text": "just hit ctrl.altbackspace ( save and close out stuff before you do so )",
+            "speaker": "deagle"
+          },
+          {
+            "text": "umm there is no default res thingy when i do that .",
+            "speaker": "Cmclean"
+          },
+          {
+            "text": "who in the what now : ?",
+            "speaker": "deagle"
+          },
+          {
+            "text": "the command you gave sudo get some file conf.x",
+            "speaker": "Cmclean"
+          },
+          {
+            "text": "goto where it says section `` screen ''",
+            "speaker": "deagle"
+          },
+          {
+            "text": "subsection `` display '' then modes `` 1280x1024 '' `` 1600x1200 '' etc",
+            "speaker": "deagle"
+          },
+          {
+            "text": "thas the whole thing ctrla paste",
+            "speaker": "Cmclean"
+          },
+          {
+            "text": "FILEPATH that into the xorg.conf file overwrite your section `` screen '' with that one",
+            "speaker": "deagle"
+          }
+        ],
+        "context": "cmclean: geforce4 mx 440 with agp8x ( gpu 0 deagle: you wo n't see any changes ( obviously ) until you restart deagle: just hit ctrl.altbackspace ( save and close out stuff before you do so ) cmclean: umm there is no default res thingy when i do that . deagle: who in the what now : ? cmclean: the command you gave sudo get some file conf.x deagle: goto where it says section `` screen '' deagle: subsection `` display '' then modes `` 1280x1024 '' `` 1600x1200 '' etc cmclean: thas the whole thing ctrla paste deagle: filepath that into the xorg.conf file overwrite your section `` screen '' with that one",
+        "qas": [
+          {
+            "question": "What does the command you gave sudo get ?",
+            "id": "00764b0385d97f967deb9c8e5fd21f0c",
+            "answers": [
+              {
+                "text": "some file conf.x",
+                "answer_start": 324
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does subsection `` display '' ?",
+            "id": "056c3a7b7c9f05cb6bdf0b8760ce4885",
+            "answers": [
+              {
+                "text": "modes `` 1280x1024 ''",
+                "answer_start": 427
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How to get some file conf.x ?",
+            "id": "93518ede849823ab06bef36ff5943425",
+            "plausible_answers": [
+              {
+                "text": "overwrite your section",
+                "answer_start": 557
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does deagle suggest to hit ?",
+            "id": "281dcb261023ed85437a4a7983b0bd57",
+            "answers": [
+              {
+                "text": "ctrl.altbackspace",
+                "answer_start": 128
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the result of hitting ?",
+            "id": "4b1a84eac36543b46cf35b35d84de3b5",
+            "answers": [
+              {
+                "text": "no default res thingy",
+                "answer_start": 214
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What section does deagle ask Cmclean to go ?",
+            "id": "adce5a23e43d75f89a4bab46c744fa64",
+            "answers": [
+              {
+                "text": "section `` screen ''",
+                "answer_start": 368
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What the command can get ?",
+            "id": "53bd94d0fee5d7487e1fcfdd4d7db445",
+            "answers": [
+              {
+                "text": "conf.x",
+                "answer_start": 334
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did not exist when Cmclean do that ?",
+            "id": "7ae403b4372f84d92b8ba697750c257a",
+            "answers": [
+              {
+                "text": "default res thingy",
+                "answer_start": 217
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's wrong with Cmclean\uff1f",
+            "id": "50a17e2c07e2c0e73c7b44e37bea0c87",
+            "plausible_answers": [
+              {
+                "text": "wo n't see any changes",
+                "answer_start": 56
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What is nothing here when Cmclean did this ?",
+            "id": "594713d84e862386df9ad157f99c1c33",
+            "answers": [
+              {
+                "text": "default res thingy",
+                "answer_start": 217
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is after the subsection `` display ?",
+            "id": "a6ae2d2cb4bec81662b26edff1b061cb",
+            "answers": [
+              {
+                "text": "modes `` 1280x1024 '' `` 1600x1200 '' etc",
+                "answer_start": 427
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Which file does the FILEPATH enter ?",
+            "id": "9d8805f141c3527e44c716ce1f7951f1",
+            "answers": [
+              {
+                "text": "the xorg.conf file",
+                "answer_start": 538
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should you do before hitting ctrl.altbackspace ?",
+            "id": "444740fae81cc7734d6a53528b4e1e12",
+            "answers": [
+              {
+                "text": "save and close out stuff",
+                "answer_start": 148
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What happens when you do that ?",
+            "id": "3a2825fdeb988158694eea560db671d1",
+            "answers": [
+              {
+                "text": "there is no default res thingy",
+                "answer_start": 205
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Where should I go now ?",
+            "id": "90caa531552cce42d60d79978282a34a",
+            "answers": [
+              {
+                "text": "goto where it says section `` screen ''",
+                "answer_start": 349
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What happens when Cmclean did that ?",
+            "id": "311c411d1dc08c3aab05ee6e6d8dd3ad",
+            "answers": [
+              {
+                "text": "there is no default res thingy",
+                "answer_start": 205
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will be overwritten according to deagle ?",
+            "id": "94471f23419f3326adf6c90844dda8fa",
+            "answers": [
+              {
+                "text": "screen",
+                "answer_start": 379
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What are the command deagle gave ?",
+            "id": "313fc61a166424465be11d7d7f30ce82",
+            "answers": [
+              {
+                "text": "sudo get some file conf.x",
+                "answer_start": 315
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does deagle suggest Cmclean hit ?",
+            "id": "9e378573ebcd32a56fd30b1131653e0c",
+            "answers": [
+              {
+                "text": "ctrl.altbackspace",
+                "answer_start": 128
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What happened when Cmclean hit ctrl.altbackspace ?",
+            "id": "9d4fc9743818d7ca629afb6ebe114948",
+            "answers": [
+              {
+                "text": "no default res thingy",
+                "answer_start": 214
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What deagle asked when getting 404 ?",
+            "id": "8bac5f46fff02151dd7ab9fe243f8859",
+            "answers": [
+              {
+                "text": "hit ctrl.altbackspace",
+                "answer_start": 124
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What happened when Cmclean do that ?",
+            "id": "4d8ee7438f3083b733d1f1cc6f1000b6",
+            "answers": [
+              {
+                "text": "no default res thingy",
+                "answer_start": 214
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What Cmclean gets after command did ?",
+            "id": "37924f838b0510b33a30d1c36c0341f2",
+            "answers": [
+              {
+                "text": "get some file conf.x",
+                "answer_start": 320
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What should you do before hit ctrl.altbackspace ?",
+            "id": "2c2b4a60ae8fe8c34bd54c1a67f9dad0",
+            "answers": [
+              {
+                "text": "save and close out stuff",
+                "answer_start": 148
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Where should you goto according to deagle ?",
+            "id": "57b5188418e142b56af6c3d5813529a6",
+            "answers": [
+              {
+                "text": "section `` screen ''",
+                "answer_start": 368
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the command that he gave sudo according to Cmclean",
+            "id": "b9a29c131b7ad6dca70939839ca8f18b",
+            "answers": [
+              {
+                "text": "get some file conf.x",
+                "answer_start": 320
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what should cmclean do before hit ctrl alt backspace ?",
+            "id": "e552f0841a6e54ff87ac70b6d8f4b2da",
+            "answers": [
+              {
+                "text": "save and close out stuff",
+                "answer_start": 148
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what kind of model does deagle need ?",
+            "id": "e38a53d63328e5d63886c0ab9fc269bd",
+            "answers": [
+              {
+                "text": "`` 1280x1024 '' `` 1600x1200 ''",
+                "answer_start": 433
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "who in the what now: ?",
+            "id": "9a9a98d6c6e95939de9e4404f92571d1",
+            "plausible_answers": [
+              {
+                "text": "the command you gave sudo get some file conf.x",
+                "answer_start": 294
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Narration"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Comment"
+          },
+          {
+            "y": 3,
+            "x": 2,
+            "type": "Result"
+          },
+          {
+            "y": 4,
+            "x": 3,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 5,
+            "x": 4,
+            "type": "Result"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 7,
+            "x": 5,
+            "type": "Comment"
+          },
+          {
+            "y": 8,
+            "x": 7,
+            "type": "Comment"
+          },
+          {
+            "y": 9,
+            "x": 8,
+            "type": "Comment"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "can some one help me with linux",
+            "speaker": "noone"
+          },
+          {
+            "text": "what do you want to do ?",
+            "speaker": "warpforge"
+          },
+          {
+            "text": "you 're going to have to be more specific . just state your problem .",
+            "speaker": "_jason"
+          },
+          {
+            "text": "hello ? .. ahem.. you are in ubuntu..",
+            "speaker": "tech9iner"
+          },
+          {
+            "text": "please please just skip ahead to your question",
+            "speaker": "trappist"
+          },
+          {
+            "text": "did you get hit by a windmill ? i do n't know , could you explain it ?",
+            "speaker": "ubotu"
+          },
+          {
+            "text": "tell tech9iner about msg the bot",
+            "speaker": "_jason"
+          },
+          {
+            "text": "how do i check ubotu messg ?",
+            "speaker": "guillem101"
+          },
+          {
+            "text": "what client are you using for irc ?",
+            "speaker": "_jason"
+          }
+        ],
+        "context": "noone: can some one help me with linux warpforge: what do you want to do ? _jason: you 're going to have to be more specific . just state your problem . tech9iner: hello ? .. ahem.. you are in ubuntu.. trappist: please please just skip ahead to your question ubotu: did you get hit by a windmill ? i do n't know , could you explain it ? _jason: tell tech9iner about msg the bot guillem101: how do i check ubotu messg ? _jason: what client are you using for irc ?",
+        "qas": [
+          {
+            "question": "What is everybody using here ?",
+            "id": "7535ab4f9bf2a351edf6863228f6a0ad",
+            "answers": [
+              {
+                "text": "ubuntu",
+                "answer_start": 193
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is told to tech9iner about ?",
+            "id": "e22bc5ef7dbb164d34a3f91e88e26ede",
+            "answers": [
+              {
+                "text": "msg the bot",
+                "answer_start": 366
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does noone ask help for ?",
+            "id": "8fa271cfd852b57245a56e5047bff786",
+            "plausible_answers": [
+              {
+                "text": "check ubotu messg",
+                "answer_start": 399
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What system does noone use ?",
+            "id": "3f597c275b4a41b1b0394a2d729967bd",
+            "answers": [
+              {
+                "text": "linux",
+                "answer_start": 33
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does guillem101 want to know ?",
+            "id": "9663e2f8549fe93f2df7a8f807f8cb8d",
+            "answers": [
+              {
+                "text": "how do i check ubotu messg",
+                "answer_start": 390
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does trappist say ?",
+            "id": "edfeacfa29ec158595b8c0eed97e9e4f",
+            "plausible_answers": [
+              {
+                "text": "could you explain it",
+                "answer_start": 314
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What is noone's problem about ?",
+            "id": "8a1e287f357c1f3f62da1005dfb0f7cf",
+            "answers": [
+              {
+                "text": "ubuntu",
+                "answer_start": 193
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does everybody use here ?",
+            "id": "748501940bc70472452b9f89b65f7f4b",
+            "answers": [
+              {
+                "text": "ubuntu",
+                "answer_start": 193
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How does guillem101 check ubotu messg ?",
+            "id": "cb9ebf88ef22dd99301b4ca3f6d76edb",
+            "plausible_answers": [
+              {
+                "text": "what client are you using",
+                "answer_start": 427
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What problem does noone meet ?",
+            "id": "fedec24912efc687394587b5ee2fbfc5",
+            "answers": [
+              {
+                "text": "can some one help me with linux",
+                "answer_start": 7
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What do you tell tech9iner about ?",
+            "id": "d52c3510269a764136f71ce330586773",
+            "answers": [
+              {
+                "text": "msg the bot",
+                "answer_start": 366
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What do you skip ahead to ?",
+            "id": "d3c510ac9ef8cfb1dfb1d83fa3af09b6",
+            "answers": [
+              {
+                "text": "your question",
+                "answer_start": 245
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what do you want to do ?",
+            "id": "8f2f4e7e3c1234528a053c7d7f104889",
+            "answers": [
+              {
+                "text": "you 're going to have to be more specific . just state your problem",
+                "answer_start": 83
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what is your problem ?",
+            "id": "77d910810caa75c19e24338d1fda930d",
+            "answers": [
+              {
+                "text": "i do n't know",
+                "answer_start": 298
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what should I do ?",
+            "id": "d403c9c88a2057cc1bbcaf31484c4076",
+            "plausible_answers": [
+              {
+                "text": "tell tech9iner about msg the bot",
+                "answer_start": 345
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "what is everybody using ?",
+            "id": "324df2728af519f4a3432af8e55ae28d",
+            "answers": [
+              {
+                "text": "ubuntu",
+                "answer_start": 193
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what does _jason tell\uff1f",
+            "id": "454eac51636d66531dc0629b03efc815",
+            "answers": [
+              {
+                "text": "tech9iner about msg the bot",
+                "answer_start": 350
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "where are not you according to tech9iner ?",
+            "id": "5c57dbb09600aa7fa927125fc8246932",
+            "plausible_answers": [
+              {
+                "text": "linux",
+                "answer_start": 33
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does noone need ?",
+            "id": "27fc68208524bc92f206d5d5d9d9e392",
+            "answers": [
+              {
+                "text": "help me with linux",
+                "answer_start": 20
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does trappist ask noone to do ?",
+            "id": "2fb69da7fb84f9cb25842a005c3aa41e",
+            "answers": [
+              {
+                "text": "just skip ahead to your question",
+                "answer_start": 226
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does _jason suggest ubotu do ?",
+            "id": "d02a6cdbe0ab993ff3acafd18ba14487",
+            "answers": [
+              {
+                "text": "tell tech9iner about msg the bot",
+                "answer_start": 345
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What noone has a problem with ?",
+            "id": "5b54dba9d09c1fa2b52152898130d011",
+            "answers": [
+              {
+                "text": "linux",
+                "answer_start": 33
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What're they using as Ng said ?",
+            "id": "3ef0849a9e246ef1c5e82f901fdb9289",
+            "answers": [
+              {
+                "text": "ubuntu",
+                "answer_start": 193
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's trappist said ?",
+            "id": "511c259910fd09cc4bcfb9bd9d435f04",
+            "answers": [
+              {
+                "text": "skip ahead to your question",
+                "answer_start": 231
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does noone question about ?",
+            "id": "ef94e3da1b6a91a6fa76b88383968b95",
+            "answers": [
+              {
+                "text": "linux",
+                "answer_start": 33
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does guillem101 want to check ?",
+            "id": "8566efbb4f69a5921cc3827cb3be32bc",
+            "answers": [
+              {
+                "text": "ubotu messg",
+                "answer_start": 405
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will noone say then ?",
+            "id": "57cdf35e6cf9ae52f7484cce3387b27c",
+            "plausible_answers": [
+              {
+                "text": "skip ahead to your question",
+                "answer_start": 231
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "who is looking for someone to help him use linux ?",
+            "id": "d06c8642e5653695215058f36cfa7095",
+            "answers": [
+              {
+                "text": "noone",
+                "answer_start": 0
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what advice does trappist give ?",
+            "id": "8791cd7971a79158cb9729128bbd0430",
+            "answers": [
+              {
+                "text": "just skip ahead to your question",
+                "answer_start": 226
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what advice does _jason give ?",
+            "id": "0fb6d4365c758f45e108a220b82edcb4",
+            "answers": [
+              {
+                "text": "have to be more specific . just state your problem",
+                "answer_start": 100
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 2,
+            "x": 0,
+            "type": "Q-Elab"
+          },
+          {
+            "y": 3,
+            "x": 0,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "QAP"
+          },
+          {
+            "y": 7,
+            "x": 6,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 8,
+            "x": 7,
+            "type": "Q-Elab"
+          }
+        ]
+      },
+      {
+        "edus": [
+          {
+            "text": "`` button 3 '' refers to the mouse scroll wheel , right ?",
+            "speaker": "rabiddachshund"
+          },
+          {
+            "text": "yes , the clicking of the wheel , not scrolling ( that 's 4 and 5 , iirc )",
+            "speaker": "fyrestrtr"
+          },
+          {
+            "text": "rebooting gets it back for a few more minutes",
+            "speaker": "alexbOrsova"
+          },
+          {
+            "text": "now how can i implement the usb card if it has an own entry ?",
+            "speaker": "Kworth"
+          },
+          {
+            "text": "also , internet works just fine from same machine from windows",
+            "speaker": "alexbOrsova"
+          },
+          {
+            "text": "you might need some magic to make it work EMOJI",
+            "speaker": "fyrestrtr"
+          },
+          {
+            "text": "dont be silly , isnt there a way ?",
+            "speaker": "Kworth"
+          },
+          {
+            "text": "no clue .. its a strange one . can you pastebin some logs ?",
+            "speaker": "fyrestrtr"
+          },
+          {
+            "text": "pastebin ? will you be here in a few minutes ?",
+            "speaker": "alexbOrsova"
+          },
+          {
+            "text": "i need to reboot , brb",
+            "speaker": "alexbOrsova"
+          },
+          {
+            "text": "grep eth0 FILEPATH and also dmesg grep eth",
+            "speaker": "fyrestrtr"
+          }
+        ],
+        "context": "rabiddachshund: `` button 3 '' refers to the mouse scroll wheel , right ? fyrestrtr: yes , the clicking of the wheel , not scrolling ( that 's 4 and 5 , iirc ) alexborsova: rebooting gets it back for a few more minutes kworth: now how can i implement the usb card if it has an own entry ? alexborsova: also , internet works just fine from same machine from windows fyrestrtr: you might need some magic to make it work emoji kworth: dont be silly , isnt there a way ? fyrestrtr: no clue .. its a strange one . can you pastebin some logs ? alexborsova: pastebin ? will you be here in a few minutes ? alexborsova: i need to reboot , brb fyrestrtr: grep eth0 filepath and also dmesg grep eth",
+        "qas": [
+          {
+            "question": "What refers to the clicking of the wheel\uff1f",
+            "id": "eccc8e2285800a3cd8bf036df758efb6",
+            "answers": [
+              {
+                "text": "`` button 3 ''",
+                "answer_start": 16
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How to make it work for fyrestrtr ?",
+            "id": "81e678f1b171639dd6eb99207a5fd79e",
+            "answers": [
+              {
+                "text": "need some magic",
+                "answer_start": 386
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did fyrestrtr need to do ?",
+            "id": "1f69644894097fa1a2c7640de6d0ee34",
+            "plausible_answers": [
+              {
+                "text": "reboot",
+                "answer_start": 173
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does button 3 mean ?",
+            "id": "f262b09b196ae4a9c1b0d8e3cd7f1a5f",
+            "answers": [
+              {
+                "text": "the mouse scroll wheel",
+                "answer_start": 41
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What command does fyrestrtr give ?",
+            "id": "64905b72c453c8af62b1ec0199aac017",
+            "answers": [
+              {
+                "text": "grep eth0 filepath and also dmesg grep eth",
+                "answer_start": 645
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the problem of fyrestrtr>",
+            "id": "eb262df69f9a12321e2d7a57258080a3",
+            "plausible_answers": [
+              {
+                "text": "gets it back for a few more minutes",
+                "answer_start": 183
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does `` button 3 '' refer to ?",
+            "id": "74eeb4e54c0366836e8029bc6e284700",
+            "answers": [
+              {
+                "text": "the mouse scroll wheel",
+                "answer_start": 41
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What works just fine from the same machine from windows ?",
+            "id": "96d0d204ef4c61e179c1d34924f3c006",
+            "answers": [
+              {
+                "text": "internet",
+                "answer_start": 309
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What alexbOrsova might need ?",
+            "id": "e03c24cd413e6526f099bde344572a0d",
+            "answers": [
+              {
+                "text": "some magic to make it work",
+                "answer_start": 391
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "How can it work according to fyrestrtr ?",
+            "id": "3e41a3f8854a73ff39a61cdd1c002f50",
+            "answers": [
+              {
+                "text": "need some magic",
+                "answer_start": 386
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What kind of clue is this ?",
+            "id": "4e2f416338abbfa3d821d26df00645ac",
+            "answers": [
+              {
+                "text": "its a strange one",
+                "answer_start": 489
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is the effect of restarting ?",
+            "id": "bd21eff40220aab2fc25bd007562a0bc",
+            "answers": [
+              {
+                "text": "gets it back for a few more minutes",
+                "answer_start": 183
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is your problem ?",
+            "id": "d78f5c82244a05106f3cd10aa4df41ab",
+            "answers": [
+              {
+                "text": "how can i implement the usb card if it has an own entry",
+                "answer_start": 231
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "what have you found\uff1f",
+            "id": "93136dc1c012c71e27e0b435d7c7ce40",
+            "answers": [
+              {
+                "text": "need some magic to make it work",
+                "answer_start": 386
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What do you want to do ?",
+            "id": "69e88da48e5749d9d2a9afe8cadb601e",
+            "answers": [
+              {
+                "text": "reboot",
+                "answer_start": 173
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does \"button3\" refer to ?",
+            "id": "2054b70e1eafce3ec2ae314771206ac9",
+            "answers": [
+              {
+                "text": "the mouse scroll wheel",
+                "answer_start": 41
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does alexbOrsova need to do ?",
+            "id": "4b92594d8ebe63c7653449bdbe205df8",
+            "answers": [
+              {
+                "text": "reboot",
+                "answer_start": 173
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is also good according to alexbOrsova ?",
+            "id": "248bc15e1b063e8e2a1912136ab2e69e",
+            "answers": [
+              {
+                "text": "internet works just fine from same machine from windows",
+                "answer_start": 309
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is `` button 3 '' refers to ?",
+            "id": "e111bbc2c20a56c60bb5be4faa0d84a4",
+            "answers": [
+              {
+                "text": "the mouse scroll wheel",
+                "answer_start": 41
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What will get it back as alexbOrsova said ?",
+            "id": "7cc3f0ad786771c2d2234abd05ccd5a2",
+            "answers": [
+              {
+                "text": "rebooting",
+                "answer_start": 173
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "Why would alexbOrsova ask fyrestrtr to be here in a few minutes ?",
+            "id": "cc240b0c662f2309831fe68a6350b666",
+            "answers": [
+              {
+                "text": "need to reboot",
+                "answer_start": 613
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What is button 3 means ?",
+            "id": "f15f2238106acf69a6f9b72bc399f9fb",
+            "answers": [
+              {
+                "text": "the mouse scroll wheel",
+                "answer_start": 41
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's alexbOrsova need to do ?",
+            "id": "3542a5172b326f350d65cd0ea6dd8f1a",
+            "answers": [
+              {
+                "text": "reboot",
+                "answer_start": 173
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What's Kworth to make internet works ?",
+            "id": "8be9e3f18899e3088c2c84fc2efd16ac",
+            "plausible_answers": [
+              {
+                "text": "magic",
+                "answer_start": 396
+              }
+            ],
+            "answers": [],
+            "is_impossible": true
+          },
+          {
+            "question": "What does `` button 3 '' refer to ?",
+            "id": "851d2b093cae31bcc36dbe0f5b85c4e8",
+            "answers": [
+              {
+                "text": "the mouse scroll wheel",
+                "answer_start": 41
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What does alexbOrsova need to do ?",
+            "id": "9a8b27bc4a03a924b24a78b50d6f836c",
+            "answers": [
+              {
+                "text": "reboot",
+                "answer_start": 173
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "What did fyrestrtr tell rabiddachshund to do first of all ?",
+            "id": "c1b09f774abe6b00a408268530b418ea",
+            "answers": [
+              {
+                "text": "the clicking of the wheel , not scrolling",
+                "answer_start": 91
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "who found magic control technology corp ?",
+            "id": "65ae775332e9487591fcbee81a87a059",
+            "answers": [
+              {
+                "text": "kworth",
+                "answer_start": 219
+              }
+            ],
+            "is_impossible": false
+          },
+          {
+            "question": "how does kworth think of fyrestrtr's idea ?",
+            "id": "6a3ce59fc925f7a2fd92ba1d33300c29",
+            "answers": [
+              {
+                "text": "silly",
+                "answer_start": 440
+              }
+            ],
+            "is_impossible": false
+          }
+        ],
+        "relations": [
+          {
+            "y": 1,
+            "x": 0,
+            "type": "QAP"
+          },
+          {
+            "y": 2,
+            "x": 1,
+            "type": "Narration"
+          },
+          {
+            "y": 3,
+            "x": 1,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 4,
+            "x": 1,
+            "type": "Continuation"
+          },
+          {
+            "y": 5,
+            "x": 3,
+            "type": "Comment"
+          },
+          {
+            "y": 6,
+            "x": 5,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 7,
+            "x": 4,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 8,
+            "x": 7,
+            "type": "Clarification_question"
+          },
+          {
+            "y": 9,
+            "x": 7,
+            "type": "Narration"
+          },
+          {
+            "y": 10,
+            "x": 9,
+            "type": "Narration"
+          }
+        ]
+      }
+    ]
+  }
+}
